@@ -1,25 +1,25 @@
 ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,zipcode,latitude,longitude,timezone
 1.14.139.184,CN,CHN,China,Guangdong,CN-GD,,Guangzhou,,23.12518,113.28064,Field 'timezone' is not supported.
 1.20.225.235,TH,THA,Thailand,,,,Bangkok,10210,13.88733,100.56909,Field 'timezone' is not supported.
-1.224.3.122,KR,KOR,South Korea,,,,Seoul,100-095,37.5566,126.97595,Field 'timezone' is not supported.
-1.255.134.136,KR,KOR,South Korea,,,,Seoul,100-095,37.5566,126.97595,Field 'timezone' is not supported.
-1.36.76.10,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2665,114.24677,Field 'timezone' is not supported.
-1.36.76.102,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2665,114.24677,Field 'timezone' is not supported.
-1.36.76.168,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2665,114.24677,Field 'timezone' is not supported.
-1.36.76.220,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2665,114.24677,Field 'timezone' is not supported.
+1.224.3.122,KR,KOR,South Korea,,,,Seoul,100-095,37.55660,126.97595,Field 'timezone' is not supported.
+1.255.134.136,KR,KOR,South Korea,,,,Seoul,100-095,37.55660,126.97595,Field 'timezone' is not supported.
+1.36.76.10,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.26650,114.24677,Field 'timezone' is not supported.
+1.36.76.102,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.26650,114.24677,Field 'timezone' is not supported.
+1.36.76.168,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.26650,114.24677,Field 'timezone' is not supported.
+1.36.76.220,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.26650,114.24677,Field 'timezone' is not supported.
 1.4.214.148,TH,THA,Thailand,,,,Bangkok,10210,13.88833,100.57486,Field 'timezone' is not supported.
 101.109.30.178,TH,THA,Thailand,,,,Bangkok,10210,13.88833,100.57486,Field 'timezone' is not supported.
-101.32.243.126,SG,SGP,Singapore,,,,Singapore,49318,1.28412,103.85254,Field 'timezone' is not supported.
+101.32.243.126,SG,SGP,Singapore,,,,Singapore,049318,1.28412,103.85254,Field 'timezone' is not supported.
 101.51.3.84,TH,THA,Thailand,,,,Bangkok,10210,13.88833,100.57486,Field 'timezone' is not supported.
 102.130.192.231,AO,AGO,Angola,,,,Luanda,,-8.81566,13.23288,Field 'timezone' is not supported.
 103.105.212.106,PH,PHL,Philippines,Central Visayas,PH-07,,Bais City,6206,9.58026,123.11816,Field 'timezone' is not supported.
 103.105.86.62,BD,BGD,Bangladesh,Dhaka,BD-C,,Dhaka,,23.71325,90.39959,Field 'timezone' is not supported.
-103.111.189.14,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12950,-6.23534,106.8291,Field 'timezone' is not supported.
+103.111.189.14,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12950,-6.23534,106.82910,Field 'timezone' is not supported.
 103.113.195.106,BD,BGD,Bangladesh,Chittagong,BD-B,,Noakhali Sadar,,22.86533,91.09704,Field 'timezone' is not supported.
-103.114.98.217,BD,BGD,Bangladesh,Chittagong,BD-B,,Kabirhat,,22.81643,91.1801,Field 'timezone' is not supported.
+103.114.98.217,BD,BGD,Bangladesh,Chittagong,BD-B,,Kabirhat,,22.81643,91.18010,Field 'timezone' is not supported.
 103.117.192.14,BD,BGD,Bangladesh,Dhaka,BD-C,,Dhaka,,23.79323,90.40878,Field 'timezone' is not supported.
 103.119.55.21,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Pusat,10310,-6.19879,106.83732,Field 'timezone' is not supported.
-103.121.215.34,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Selatan,12760,-6.2528,106.83477,Field 'timezone' is not supported.
+103.121.215.34,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Selatan,12760,-6.25280,106.83477,Field 'timezone' is not supported.
 103.122.32.10,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Pusat,10320,-6.20314,106.84537,Field 'timezone' is not supported.
 103.123.235.58,IN,IND,India,Himachal Pradesh,IN-HP,,Baddi,,30.94785,76.80675,Field 'timezone' is not supported.
 103.15.60.21,IN,IND,India,Telangana,IN-TG,,Hyderabad,500095,17.38504,78.48667,Field 'timezone' is not supported.
@@ -41,27 +41,27 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 103.36.8.244,ID,IDN,Indonesia,,,,Lebak,42314,-6.36323,106.25835,Field 'timezone' is not supported.
 103.4.117.161,BD,BGD,Bangladesh,Dhaka Division,BD-C,,Dhaka,1212,23.78101,90.40247,Field 'timezone' is not supported.
 103.65.214.147,ID,IDN,Indonesia,Bandung Raya,ID-JB,,Bandung,40112,-6.92228,107.61647,Field 'timezone' is not supported.
-103.74.147.22,IN,IND,India,Delhi,IN-DL,,Delhi,110059,28.6194,77.0331,Field 'timezone' is not supported.
+103.74.147.22,IN,IND,India,Delhi,IN-DL,,Delhi,110059,28.61940,77.03310,Field 'timezone' is not supported.
 103.75.27.58,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Pusat,10320,-6.20314,106.84537,Field 'timezone' is not supported.
 103.77.41.138,IN,IND,India,Delhi,IN-DL,,Delhi,110058,28.61088,77.09386,Field 'timezone' is not supported.
 103.78.27.44,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Pusat,10320,-6.20314,106.84537,Field 'timezone' is not supported.
 103.79.96.145,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Tangerang Selatan,15424,-6.28059,106.72338,Field 'timezone' is not supported.
 103.86.49.133,TH,THA,Thailand,Krung Thep Maha Nakhon,TH-10,,,10330,13.74545,100.54064,Field 'timezone' is not supported.
 103.94.123.214,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Depok,16544,-6.34034,106.78916,Field 'timezone' is not supported.
-104.154.67.127,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.4224,-122.08421,Field 'timezone' is not supported.
-104.208.115.113,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.119.205,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.71.196,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.74.76,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.75.168,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.83.99,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.97.127,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.97.22,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.98.217,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.99.32,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-104.208.99.66,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
+104.154.67.127,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.42240,-122.08421,Field 'timezone' is not supported.
+104.208.115.113,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.119.205,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.71.196,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.74.76,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.75.168,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.83.99,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.97.127,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.97.22,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.98.217,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.99.32,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+104.208.99.66,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
 104.223.135.178,US,USA,United States,Texas,US-TX,,Cypress,77429-1643,29.99593,-95.68697,Field 'timezone' is not supported.
-104.236.78.102,US,USA,United States,New Jersey,US-NJ,,Clifton,7014,40.83197,-74.13139,Field 'timezone' is not supported.
+104.236.78.102,US,USA,United States,New Jersey,US-NJ,,Clifton,07014,40.83197,-74.13139,Field 'timezone' is not supported.
 104.45.128.122,US,USA,United States,Washington,US-WA,,,,47.03956,-122.89166,Field 'timezone' is not supported.
 106.0.48.132,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
 106.14.255.124,CN,CHN,China,Shanghai,CN-SH,,Shanghai,,31.23171,121.47264,Field 'timezone' is not supported.
@@ -72,20 +72,20 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 107.152.44.51,US,USA,United States,Illinois,US-IL,,Glenview,60025-4914,42.05675,-87.80809,Field 'timezone' is not supported.
 107.173.148.253,US,USA,United States,California,US-CA,,Rancho Cucamonga,91730-5934,34.08105,-117.57403,Field 'timezone' is not supported.
 108.61.175.7,GB,GBR,United Kingdom,England,GB-ENG,,London,E1 6QR,51.52026,-0.07313,Field 'timezone' is not supported.
-109.110.35.210,RU,RUS,Russia,Far Eastern Federal District,RU-DFO,,Vladivostok,690091,43.11566,131.8859,Field 'timezone' is not supported.
+109.110.35.210,RU,RUS,Russia,Far Eastern Federal District,RU-DFO,,Vladivostok,690091,43.11566,131.88590,Field 'timezone' is not supported.
 109.194.101.128,RU,RUS,Russia,Volga Federal District,RU-VOL,,Yoshkar-Ola,424000,56.63185,47.89793,Field 'timezone' is not supported.
 109.68.148.60,GR,GRC,Greece,Kentriki Makedonia,GR-B,,Thessaloniki,546 23,40.63339,22.94359,Field 'timezone' is not supported.
 109.73.32.10,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,107076,55.80078,37.71385,Field 'timezone' is not supported.
-110.238.73.59,ZA,ZAF,South Africa,Gauteng,ZA-GP,,Pretoria,2,-25.74587,28.18764,Field 'timezone' is not supported.
+110.238.73.59,ZA,ZAF,South Africa,Gauteng,ZA-GP,,Pretoria,0002,-25.74587,28.18764,Field 'timezone' is not supported.
 110.34.1.46,NP,NPL,Nepal,Bagmati,NP-BAG,,Kathmandu,,27.71381,85.31037,Field 'timezone' is not supported.
-110.77.134.106,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.514,Field 'timezone' is not supported.
-110.77.161.197,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.514,Field 'timezone' is not supported.
-110.78.149.235,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.514,Field 'timezone' is not supported.
+110.77.134.106,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.51400,Field 'timezone' is not supported.
+110.77.161.197,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.51400,Field 'timezone' is not supported.
+110.78.149.235,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.51400,Field 'timezone' is not supported.
 110.83.46.232,CN,CHN,China,Fujian,CN-FJ,,Fuzhou,,26.15014,119.13388,Field 'timezone' is not supported.
 111.225.153.206,CN,CHN,China,Hebei,CN-HE,,Zhangjiakou,,40.81945,114.86962,Field 'timezone' is not supported.
 111.68.40.15,PH,PHL,Philippines,National Capital Region,PH-00,,San Juan,1500,14.59963,121.03698,Field 'timezone' is not supported.
 112.229.107.62,CN,CHN,China,Shandong,CN-SD,,Jinan,,36.67995,117.06509,Field 'timezone' is not supported.
-112.78.134.211,ID,IDN,Indonesia,,,,Purwokerto,53133,-7.42578,109.2186,Field 'timezone' is not supported.
+112.78.134.211,ID,IDN,Indonesia,,,,Purwokerto,53133,-7.42578,109.21860,Field 'timezone' is not supported.
 112.78.137.106,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10270,-6.22147,106.79886,Field 'timezone' is not supported.
 113.23.176.254,MY,MYS,Malaysia,Wilayah Persekutuan,MY-15,,Putrajaya,62050,2.94415,101.72358,Field 'timezone' is not supported.
 113.30.153.127,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
@@ -102,14 +102,14 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 115.218.59.83,CN,CHN,China,Zhejiang,CN-ZJ,,Wenzhou,,28.01489,120.65505,Field 'timezone' is not supported.
 115.243.238.43,IN,IND,India,Maharashtra,IN-MH,,Navi Mumbai,400701,19.12418,73.00551,Field 'timezone' is not supported.
 115.243.238.45,IN,IND,India,Maharashtra,IN-MH,,Navi Mumbai,400701,19.12418,73.00551,Field 'timezone' is not supported.
-115.42.2.252,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.8688,151.2093,Field 'timezone' is not supported.
-116.0.4.54,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Barat,11730,-6.13706,106.7337,Field 'timezone' is not supported.
+115.42.2.252,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.86880,151.20930,Field 'timezone' is not supported.
+116.0.4.54,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta Barat,11730,-6.13706,106.73370,Field 'timezone' is not supported.
 116.107.50.247,VN,VNM,Vietnam,Hà Nội,VN-HN,,,,21.00346,105.77033,Field 'timezone' is not supported.
 116.193.175.48,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Bogor,16161,-6.57241,106.80167,Field 'timezone' is not supported.
 116.202.209.248,DE,DEU,Germany,Bavaria,DE-BY,,Gunzenhausen,91710,49.12483,10.78052,Field 'timezone' is not supported.
-116.58.232.187,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.514,Field 'timezone' is not supported.
+116.58.232.187,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.51400,Field 'timezone' is not supported.
 116.90.229.186,NP,NPL,Nepal,Bagmati,NP-BAG,,Kathmandu,,27.68379,85.34651,Field 'timezone' is not supported.
-117.212.192.220,IN,IND,India,Karnataka,IN-KA,,Bengaluru,560032,13.02828,77.5936,Field 'timezone' is not supported.
+117.212.192.220,IN,IND,India,Karnataka,IN-KA,,Bengaluru,560032,13.02828,77.59360,Field 'timezone' is not supported.
 117.242.100.163,IN,IND,India,Karnataka,IN-KA,,Bengaluru,560040,12.97483,77.54507,Field 'timezone' is not supported.
 117.29.80.222,CN,CHN,China,Fujian,CN-FJ,,Nanping,,27.33207,118.12267,Field 'timezone' is not supported.
 118.137.71.3,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12950,-6.23418,106.82426,Field 'timezone' is not supported.
@@ -124,10 +124,10 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 119.3.122.177,CN,CHN,China,Shanghai,CN-SH,,Shanghai,,31.23171,121.47264,Field 'timezone' is not supported.
 119.3.158.56,CN,CHN,China,Shanghai,CN-SH,,Shanghai,,31.23171,121.47264,Field 'timezone' is not supported.
 119.42.152.252,IN,IND,India,Delhi,IN-DL,,Delhi,110066,28.56725,77.18719,Field 'timezone' is not supported.
-119.51.198.61,CN,CHN,China,Jilin,CN-JL,,Changchun,,43.88684,125.3245,Field 'timezone' is not supported.
+119.51.198.61,CN,CHN,China,Jilin,CN-JL,,Changchun,,43.88684,125.32450,Field 'timezone' is not supported.
 12.11.59.114,US,USA,United States,Virginia,US-VA,,Woodstock,22664-1021,38.86969,-78.52687,Field 'timezone' is not supported.
 120.28.194.30,PH,PHL,Philippines,National Capital Region,PH-00,,Quezon City,1106,14.66469,121.04363,Field 'timezone' is not supported.
-121.101.134.22,ID,IDN,Indonesia,,,,Magelang,56519,-7.54631,110.2406,Field 'timezone' is not supported.
+121.101.134.22,ID,IDN,Indonesia,,,,Magelang,56519,-7.54631,110.24060,Field 'timezone' is not supported.
 121.126.105.81,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 121.126.106.184,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 121.126.109.159,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
@@ -159,7 +159,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 121.126.64.70,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 121.126.65.9,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 121.126.82.125,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
-121.227.58.94,CN,CHN,China,Jiangsu,CN-JS,,Suzhou,,31.4497,121.10891,Field 'timezone' is not supported.
+121.227.58.94,CN,CHN,China,Jiangsu,CN-JS,,Suzhou,,31.44970,121.10891,Field 'timezone' is not supported.
 122.136.212.132,CN,CHN,China,Jilin,CN-JL,,Yanbian,,43.37304,128.23242,Field 'timezone' is not supported.
 122.9.151.210,CN,CHN,China,Guizhou,CN-GZ,,Guiyang,,26.57834,106.71348,Field 'timezone' is not supported.
 123.145.123.58,CN,CHN,China,Chongqing,CN-CQ,,Chongqing,,29.55279,106.56901,Field 'timezone' is not supported.
@@ -199,33 +199,33 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 126.28.52.99,JP,JPN,Japan,Tokyo,JP-13,,Minato City,105-7302,35.66294,139.76122,Field 'timezone' is not supported.
 128.199.202.122,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
 128.199.243.33,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
-128.90.142.199,FR,FRA,France,Nouvelle-Aquitaine,FR-NAQ,,Angoulême,16000,45.64924,0.157,Field 'timezone' is not supported.
+128.90.142.199,FR,FRA,France,Nouvelle-Aquitaine,FR-NAQ,,Angoulême,16000,45.64924,0.15700,Field 'timezone' is not supported.
 128.90.171.188,US,USA,United States,Texas,US-TX,,Austin,78703-5403,30.27061,-97.75206,Field 'timezone' is not supported.
 13.57.67.22,US,USA,United States,California,US-CA,,San Pablo,94804,37.94284,-122.33667,Field 'timezone' is not supported.
 13.76.163.138,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
 13.76.245.159,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
 13.76.32.91,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
-130.41.55.190,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05361,-118.2455,Field 'timezone' is not supported.
+130.41.55.190,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05361,-118.24550,Field 'timezone' is not supported.
 130.51.201.87,US,USA,United States,Utah,US-UT,,Lehi,84043-2422,40.43106,-111.86048,Field 'timezone' is not supported.
 131.0.226.198,BR,BRA,Brazil,Pernambuco,BR-PE,,Recife,51020-280,-8.11659,-34.90271,Field 'timezone' is not supported.
-131.72.68.253,BR,BRA,Brazil,Bahia,BR-BA,,Cícero Dantas,48410-000,-10.59385,-38.3851,Field 'timezone' is not supported.
-132.148.6.255,US,USA,United States,Arizona,US-AZ,,Tempe,85284-3401,33.3351,-111.89503,Field 'timezone' is not supported.
+131.72.68.253,BR,BRA,Brazil,Bahia,BR-BA,,Cícero Dantas,48410-000,-10.59385,-38.38510,Field 'timezone' is not supported.
+132.148.6.255,US,USA,United States,Arizona,US-AZ,,Tempe,85284-3401,33.33510,-111.89503,Field 'timezone' is not supported.
 132.255.210.113,SV,SLV,El Salvador,,,,San Miguel,,13.47611,-88.18336,Field 'timezone' is not supported.
 134.122.58.174,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
 134.209.105.160,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
-135.181.32.230,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,100,60.1694,24.93553,Field 'timezone' is not supported.
+135.181.32.230,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,00100,60.16940,24.93553,Field 'timezone' is not supported.
 136.233.251.156,IN,IND,India,Maharashtra,IN-MH,,Navi Mumbai,400701,19.12418,73.00551,Field 'timezone' is not supported.
 136.233.251.157,IN,IND,India,Maharashtra,IN-MH,,Navi Mumbai,400701,19.12418,73.00551,Field 'timezone' is not supported.
-136.243.134.87,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,8223,50.47914,12.33547,Field 'timezone' is not supported.
-137.184.197.190,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
+136.243.134.87,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,08223,50.47914,12.33547,Field 'timezone' is not supported.
+137.184.197.190,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
 137.74.90.232,FR,FRA,France,Hauts-de-France,FR-HDF,,Roubaix,59100,50.69224,3.20003,Field 'timezone' is not supported.
 138.118.123.134,BR,BRA,Brazil,Sao Paulo,BR-SP,,Araçatuba,16018-000,-21.22782,-50.43725,Field 'timezone' is not supported.
-138.118.213.213,AR,ARG,Argentina,Santa Cruz,CV-CR,,Rio Gallegos,9400,-51.62862,-69.2177,Field 'timezone' is not supported.
+138.118.213.213,AR,ARG,Argentina,Santa Cruz,CV-CR,,Rio Gallegos,9400,-51.62862,-69.21770,Field 'timezone' is not supported.
 138.121.113.164,AR,ARG,Argentina,Formosa,AR-P,,Formosa,3600,-26.18304,-58.16468,Field 'timezone' is not supported.
 138.68.136.139,GB,GBR,United Kingdom,England,GB-ENG,,London,SW1A 2,51.50643,-0.12719,Field 'timezone' is not supported.
-138.68.235.51,US,USA,United States,California,US-CA,,Santa Clara,95051,37.35333,-121.9943,Field 'timezone' is not supported.
+138.68.235.51,US,USA,United States,California,US-CA,,Santa Clara,95051,37.35333,-121.99430,Field 'timezone' is not supported.
 138.68.75.207,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
-139.162.44.152,SG,SGP,Singapore,,,,Singapore,4,1.28272,103.8512,Field 'timezone' is not supported.
+139.162.44.152,SG,SGP,Singapore,,,,Singapore,04,1.28272,103.85120,Field 'timezone' is not supported.
 139.196.73.1,CN,CHN,China,Shanghai,CN-SH,,Shanghai,,31.23171,121.47264,Field 'timezone' is not supported.
 139.255.63.170,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12950,-6.23417,106.82418,Field 'timezone' is not supported.
 139.255.88.52,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12950,-6.23417,106.82418,Field 'timezone' is not supported.
@@ -233,9 +233,9 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 139.99.237.62,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2060,-33.84021,151.20947,Field 'timezone' is not supported.
 14.161.27.174,VN,VNM,Vietnam,,,,,,21.02888,105.85464,Field 'timezone' is not supported.
 14.177.7.187,VN,VNM,Vietnam,,,,,,21.02888,105.85464,Field 'timezone' is not supported.
-14.207.145.52,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
+14.207.145.52,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
 14.232.166.150,VN,VNM,Vietnam,,,,,,21.02888,105.85464,Field 'timezone' is not supported.
-14.99.85.141,IN,IND,India,Chandigarh,IN-CH,,Chandigarh,160002,30.6984,76.78673,Field 'timezone' is not supported.
+14.99.85.141,IN,IND,India,Chandigarh,IN-CH,,Chandigarh,160002,30.69840,76.78673,Field 'timezone' is not supported.
 140.227.61.156,JP,JPN,Japan,Tokyo,JP-13,,Chiyoda City,101-0047,35.69156,139.76755,Field 'timezone' is not supported.
 140.83.32.175,JP,JPN,Japan,,,,Japan,,31.44737,130.34601,Field 'timezone' is not supported.
 141.193.213.107,US,USA,United States,Texas,US-TX,,Austin,78701-2803,30.26813,-97.74563,Field 'timezone' is not supported.
@@ -243,16 +243,16 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 142.147.114.50,US,USA,United States,Texas,US-TX,,Hudson Oaks,76087-1265,32.75092,-97.68613,Field 'timezone' is not supported.
 142.93.223.246,IN,IND,India,Karnataka,IN-KA,,Bengaluru,560100,12.84541,77.66434,Field 'timezone' is not supported.
 143.198.152.50,US,USA,United States,California,US-CA,,Santa Clara,95054,37.39684,-121.95011,Field 'timezone' is not supported.
-143.198.182.218,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
+143.198.182.218,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
 143.47.177.138,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
-144.76.42.215,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,8223,50.47914,12.33547,Field 'timezone' is not supported.
+144.76.42.215,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,08223,50.47914,12.33547,Field 'timezone' is not supported.
 145.239.85.58,PL,POL,Poland,Dolnośląskie,PL-DS,,Wrocław,50-088,51.09845,17.03112,Field 'timezone' is not supported.
 146.190.18.150,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
 146.196.123.211,IN,IND,India,Telangana,IN-TG,,Secunderabad,500083,17.48496,78.59798,Field 'timezone' is not supported.
-146.56.119.252,KR,KOR,South Korea,,,,Ch'unch'on,,37.8705,127.72295,Field 'timezone' is not supported.
+146.56.119.252,KR,KOR,South Korea,,,,Ch'unch'on,,37.87050,127.72295,Field 'timezone' is not supported.
 148.251.143.81,DE,DEU,Germany,Bavaria,DE-BY,,Gunzenhausen,91710,49.12483,10.78052,Field 'timezone' is not supported.
-148.251.191.8,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,8223,50.47914,12.33547,Field 'timezone' is not supported.
-149.129.213.200,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12940,-6.2222,106.82195,Field 'timezone' is not supported.
+148.251.191.8,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,08223,50.47914,12.33547,Field 'timezone' is not supported.
+149.129.213.200,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12940,-6.22220,106.82195,Field 'timezone' is not supported.
 149.18.28.37,US,USA,United States,Virginia,US-VA,,Reston,20190,38.95979,-77.35453,Field 'timezone' is not supported.
 149.18.28.56,US,USA,United States,Virginia,US-VA,,Reston,20190,38.95979,-77.35453,Field 'timezone' is not supported.
 149.18.28.83,US,USA,United States,Virginia,US-VA,,Reston,20190,38.95979,-77.35453,Field 'timezone' is not supported.
@@ -260,31 +260,31 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 149.18.29.12,US,USA,United States,Virginia,US-VA,,Reston,20190,38.95979,-77.35453,Field 'timezone' is not supported.
 149.18.31.204,US,USA,United States,Virginia,US-VA,,Reston,20190,38.95979,-77.35453,Field 'timezone' is not supported.
 149.18.31.36,US,USA,United States,Virginia,US-VA,,Reston,20190,38.95979,-77.35453,Field 'timezone' is not supported.
-149.18.56.153,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
-149.18.56.242,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
-149.18.57.167,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
-149.18.57.30,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
-149.18.58.122,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
+149.18.56.153,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
+149.18.56.242,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
+149.18.57.167,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
+149.18.57.30,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
+149.18.58.122,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
 149.57.13.137,US,USA,United States,New York,US-NY,,New York,10007,40.71455,-74.00714,Field 'timezone' is not supported.
 149.57.14.125,US,USA,United States,New York,US-NY,,New York,10007,40.71455,-74.00714,Field 'timezone' is not supported.
 149.57.15.60,US,USA,United States,New York,US-NY,,New York,10007,40.71455,-74.00714,Field 'timezone' is not supported.
 151.181.91.10,US,USA,United States,New York,US-NY,,Buffalo,14202-7537,42.88637,-78.87865,Field 'timezone' is not supported.
-151.74.250.186,IT,ITA,Italy,Lombardy,IT-25,,Rho,20017,45.51878,9.0863,Field 'timezone' is not supported.
-152.169.187.209,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1425,-34.5752,-58.43593,Field 'timezone' is not supported.
-152.200.154.131,CO,COL,Colombia,,,,"Bogota, D.C.",111121,4.69778,-74.0696,Field 'timezone' is not supported.
-152.67.222.187,KR,KOR,South Korea,,,,Ch'unch'on,,37.8705,127.72295,Field 'timezone' is not supported.
-152.67.75.117,CH,CHE,Switzerland,Zurich,CH-ZH,,Zurich,8001,47.377,8.53977,Field 'timezone' is not supported.
+151.74.250.186,IT,ITA,Italy,Lombardy,IT-25,,Rho,20017,45.51878,9.08630,Field 'timezone' is not supported.
+152.169.187.209,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1425,-34.57520,-58.43593,Field 'timezone' is not supported.
+152.200.154.131,CO,COL,Colombia,,,,"Bogota, D.C.",111121,4.69778,-74.06960,Field 'timezone' is not supported.
+152.67.222.187,KR,KOR,South Korea,,,,Ch'unch'on,,37.87050,127.72295,Field 'timezone' is not supported.
+152.67.75.117,CH,CHE,Switzerland,Zurich,CH-ZH,,Zurich,8001,47.37700,8.53977,Field 'timezone' is not supported.
 152.70.53.167,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
-152.70.82.137,JP,JPN,Japan,,,,Osaka,,34.68714,135.5016,Field 'timezone' is not supported.
+152.70.82.137,JP,JPN,Japan,,,,Osaka,,34.68714,135.50160,Field 'timezone' is not supported.
 154.113.32.26,NG,NGA,Nigeria,Lagos,NG-LA,,Lagos,,6.50453,3.39184,Field 'timezone' is not supported.
-154.13.4.76,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.9859,Field 'timezone' is not supported.
-154.13.4.77,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.9859,Field 'timezone' is not supported.
-154.13.4.78,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.9859,Field 'timezone' is not supported.
-154.13.4.79,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.9859,Field 'timezone' is not supported.
-154.13.4.80,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.9859,Field 'timezone' is not supported.
-154.212.7.242,MX,MEX,Mexico,Mexico City,MX-CMX,,Mexico City,6000,19.43195,-99.13315,Field 'timezone' is not supported.
+154.13.4.76,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.98590,Field 'timezone' is not supported.
+154.13.4.77,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.98590,Field 'timezone' is not supported.
+154.13.4.78,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.98590,Field 'timezone' is not supported.
+154.13.4.79,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.98590,Field 'timezone' is not supported.
+154.13.4.80,US,USA,United States,New York,US-NY,,New York,10018-2699,40.75382,-73.98590,Field 'timezone' is not supported.
+154.212.7.242,MX,MEX,Mexico,Mexico City,MX-CMX,,Mexico City,06000,19.43195,-99.13315,Field 'timezone' is not supported.
 154.216.191.190,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.24874,114.15272,Field 'timezone' is not supported.
-154.221.25.47,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
+154.221.25.47,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
 154.236.177.100,EG,EGY,Egypt,,,,Imbaba,,30.08419,31.20585,Field 'timezone' is not supported.
 154.236.184.71,EG,EGY,Egypt,,,,Imbaba,,30.08419,31.20585,Field 'timezone' is not supported.
 154.236.184.84,EG,EGY,Egypt,,,,Imbaba,,30.08419,31.20585,Field 'timezone' is not supported.
@@ -292,31 +292,31 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 154.239.1.77,EG,EGY,Egypt,,,,Imbaba,,30.08419,31.20585,Field 'timezone' is not supported.
 154.61.143.238,GB,GBR,United Kingdom,England,GB-ENG,,Slough,SL1 4,51.52461,-0.63493,Field 'timezone' is not supported.
 154.92.126.157,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,,52.37018,4.87324,Field 'timezone' is not supported.
-156.200.116.68,EG,EGY,Egypt,,,,El Dokki,,30.03808,31.2093,Field 'timezone' is not supported.
+156.200.116.68,EG,EGY,Egypt,,,,El Dokki,,30.03808,31.20930,Field 'timezone' is not supported.
 156.238.7.116,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
-156.67.214.200,SG,SGP,Singapore,,,,Singapore,1,1.27857,103.85762,Field 'timezone' is not supported.
+156.67.214.200,SG,SGP,Singapore,,,,Singapore,01,1.27857,103.85762,Field 'timezone' is not supported.
 157.100.26.69,EC,ECU,Ecuador,Pichincha,EC-P,,Quito,170507,-0.18246,-78.48848,Field 'timezone' is not supported.
 157.100.56.94,EC,ECU,Ecuador,Guayas,EC-G,,Guayaquil,,-2.14677,-79.91261,Field 'timezone' is not supported.
 157.119.211.133,IN,IND,India,Tamil Nadu,IN-TN,,Chennai,600033,13.03769,80.22076,Field 'timezone' is not supported.
 157.245.33.31,GB,GBR,United Kingdom,England,GB-ENG,,London,SW1A 2,51.50643,-0.12719,Field 'timezone' is not supported.
 157.90.151.147,DE,DEU,Germany,Bavaria,DE-BY,,Gunzenhausen,91710,49.12483,10.78052,Field 'timezone' is not supported.
 158.101.23.25,US,USA,United States,Arizona,US-AZ,,Phoenix,85008,33.45189,-111.97417,Field 'timezone' is not supported.
-158.101.98.148,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
-158.69.185.37,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.5716,Field 'timezone' is not supported.
-158.69.52.218,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.5716,Field 'timezone' is not supported.
-158.69.53.132,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.5716,Field 'timezone' is not supported.
+158.101.98.148,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
+158.69.185.37,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.57160,Field 'timezone' is not supported.
+158.69.52.218,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.57160,Field 'timezone' is not supported.
+158.69.53.132,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.57160,Field 'timezone' is not supported.
 159.138.166.178,ZA,ZAF,South Africa,Kwazulu Natal,ZA-NL,,Berrel,3610,-29.73639,30.85776,Field 'timezone' is not supported.
 159.138.170.65,ZA,ZAF,South Africa,Kwazulu Natal,ZA-NL,,Berrel,3610,-29.73639,30.85776,Field 'timezone' is not supported.
-159.192.138.170,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.514,Field 'timezone' is not supported.
-159.192.253.73,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.514,Field 'timezone' is not supported.
+159.192.138.170,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.51400,Field 'timezone' is not supported.
+159.192.253.73,TH,THA,Thailand,,,,Bangkok,10500,13.72658,100.51400,Field 'timezone' is not supported.
 159.197.128.41,AU,AUS,Australia,Queensland,AU-QLD,,Brisbane,4000,-27.47265,153.02776,Field 'timezone' is not supported.
-159.203.84.241,US,USA,United States,New Jersey,US-NJ,,Clifton,7014,40.83197,-74.13139,Field 'timezone' is not supported.
+159.203.84.241,US,USA,United States,New Jersey,US-NJ,,Clifton,07014,40.83197,-74.13139,Field 'timezone' is not supported.
 159.223.228.228,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
 159.223.87.53,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
-159.224.243.185,UA,UKR,Ukraine,,,,Kyiv,2000,50.4501,30.5234,Field 'timezone' is not supported.
+159.224.243.185,UA,UKR,Ukraine,,,,Kyiv,02000,50.45010,30.52340,Field 'timezone' is not supported.
 159.69.245.208,DE,DEU,Germany,Bavaria,DE-BY,,Gunzenhausen,91710,49.12483,10.78052,Field 'timezone' is not supported.
-159.89.228.253,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
-161.117.89.36,SG,SGP,Singapore,,,,Singapore,4,1.28115,103.85191,Field 'timezone' is not supported.
+159.89.228.253,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
+161.117.89.36,SG,SGP,Singapore,,,,Singapore,04,1.28115,103.85191,Field 'timezone' is not supported.
 161.35.161.38,GB,GBR,United Kingdom,England,GB-ENG,,London,SW1A 2,51.50643,-0.12719,Field 'timezone' is not supported.
 161.35.214.127,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 161.35.223.141,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
@@ -324,17 +324,17 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 162.19.7.56,FR,FRA,France,Hauts-de-France,FR-HDF,,Roubaix,59100,50.69224,3.20003,Field 'timezone' is not supported.
 162.241.43.120,US,USA,United States,Utah,US-UT,,Provo,84606-6200,40.20683,-111.64253,Field 'timezone' is not supported.
 162.241.43.121,US,USA,United States,Utah,US-UT,,Provo,84606-6200,40.20683,-111.64253,Field 'timezone' is not supported.
-162.243.174.235,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
-162.247.241.1,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.241.16,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.241.2,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.241.6,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.243.147,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.243.149,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.243.158,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.243.189,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.243.198,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
-162.247.243.53,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.3931,Field 'timezone' is not supported.
+162.243.174.235,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
+162.247.241.1,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.241.16,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.241.2,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.241.6,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.243.147,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.243.149,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.243.158,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.243.189,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.243.198,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
+162.247.243.53,US,USA,United States,California,US-CA,,San Francisco,94105-1748,37.79135,-122.39310,Field 'timezone' is not supported.
 162.252.146.129,US,USA,United States,Maryland,US-MD,,Phoenix,21131-1541,39.50599,-76.60197,Field 'timezone' is not supported.
 162.55.186.138,DE,DEU,Germany,Bavaria,DE-BY,,Gunzenhausen,91710,49.12483,10.78052,Field 'timezone' is not supported.
 162.55.188.222,DE,DEU,Germany,Bavaria,DE-BY,,Gunzenhausen,91710,49.12483,10.78052,Field 'timezone' is not supported.
@@ -357,8 +357,8 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 165.154.243.209,TW,TWN,Taiwan,,,,Taipei City,110,25.03293,121.56705,Field 'timezone' is not supported.
 165.154.243.252,TW,TWN,Taiwan,,,,Taipei City,110,25.03293,121.56705,Field 'timezone' is not supported.
 165.16.27.31,LY,LBY,Libya,,,,Tripoli,,32.89534,13.18105,Field 'timezone' is not supported.
-165.227.71.60,US,USA,United States,New Jersey,US-NJ,,Clifton,7014,40.83197,-74.13139,Field 'timezone' is not supported.
-167.172.158.85,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
+165.227.71.60,US,USA,United States,New Jersey,US-NJ,,Clifton,07014,40.83197,-74.13139,Field 'timezone' is not supported.
+167.172.158.85,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
 167.172.172.234,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 167.172.178.68,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 167.172.96.117,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
@@ -367,7 +367,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 167.99.74.155,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
 168.181.196.76,BR,BRA,Brazil,Espirito Santo,BR-ES,,Marataízes,29345-000,-21.01058,-40.80971,Field 'timezone' is not supported.
 168.227.56.96,BR,BRA,Brazil,Sao Paulo,BR-SP,,Votuporanga,15500-004,-20.42501,-49.97402,Field 'timezone' is not supported.
-169.57.1.85,MX,MEX,Mexico,Mexico City,MX-CMX,,Mexico City,6000,19.43195,-99.13315,Field 'timezone' is not supported.
+169.57.1.85,MX,MEX,Mexico,Mexico City,MX-CMX,,Mexico City,06000,19.43195,-99.13315,Field 'timezone' is not supported.
 170.0.92.43,AR,ARG,Argentina,Entre Rios,AR-E,,Gualeguaychú,2820,-33.01183,-58.51481,Field 'timezone' is not supported.
 170.106.187.123,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
 170.106.187.22,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
@@ -378,8 +378,8 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 170.233.176.128,AR,ARG,Argentina,Neuquen,AR-Q,,Cutral Có,8322,-38.93889,-69.22988,Field 'timezone' is not supported.
 170.238.79.2,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sao Paulo,08191-360,-23.48129,-46.38003,Field 'timezone' is not supported.
 170.246.85.108,EC,ECU,Ecuador,Azuay,EC-A,,Cuenca,,-2.89983,-79.02453,Field 'timezone' is not supported.
-170.254.201.38,BR,BRA,Brazil,Rio de Janeiro,BR-RJ,,Itaboraí,24855-264,-22.77326,-42.9223,Field 'timezone' is not supported.
-170.254.201.40,BR,BRA,Brazil,Rio de Janeiro,BR-RJ,,Itaboraí,24855-264,-22.77326,-42.9223,Field 'timezone' is not supported.
+170.254.201.38,BR,BRA,Brazil,Rio de Janeiro,BR-RJ,,Itaboraí,24855-264,-22.77326,-42.92230,Field 'timezone' is not supported.
+170.254.201.40,BR,BRA,Brazil,Rio de Janeiro,BR-RJ,,Itaboraí,24855-264,-22.77326,-42.92230,Field 'timezone' is not supported.
 171.233.79.234,VN,VNM,Vietnam,Hà Nội,VN-HN,,,,21.00346,105.77033,Field 'timezone' is not supported.
 171.97.200.7,TH,THA,Thailand,,,,Bangkok,10400,13.76048,100.55563,Field 'timezone' is not supported.
 172.104.115.95,JP,JPN,Japan,,,,Tokyo,,35.68408,139.80885,Field 'timezone' is not supported.
@@ -387,7 +387,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 172.104.241.29,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 172.105.13.173,CA,CAN,Canada,Ontario,CA-ON,,Toronto,M5H,43.64869,-79.38544,Field 'timezone' is not supported.
 172.105.150.126,US,USA,United States,Georgia,US-GA,,Atlanta,30303,33.74831,-84.39111,Field 'timezone' is not supported.
-172.105.184.208,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.8696,151.20691,Field 'timezone' is not supported.
+172.105.184.208,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.86960,151.20691,Field 'timezone' is not supported.
 172.64.141.2,US,USA,United States,California,US-CA,,San Francisco,94107-1907,37.78035,-122.39059,Field 'timezone' is not supported.
 172.64.150.229,US,USA,United States,California,US-CA,,San Francisco,94107-1907,37.78035,-122.39059,Field 'timezone' is not supported.
 172.64.157.2,US,USA,United States,California,US-CA,,San Francisco,94107-1907,37.78035,-122.39059,Field 'timezone' is not supported.
@@ -481,7 +481,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 172.67.73.243,US,USA,United States,California,US-CA,,San Francisco,94107-1907,37.78035,-122.39059,Field 'timezone' is not supported.
 172.67.75.181,US,USA,United States,California,US-CA,,San Francisco,94107-1907,37.78035,-122.39059,Field 'timezone' is not supported.
 172.67.75.204,US,USA,United States,California,US-CA,,San Francisco,94107-1907,37.78035,-122.39059,Field 'timezone' is not supported.
-173.192.21.89,US,USA,United States,Texas,US-TX,,Dallas,75244-4608,32.9339,-96.82794,Field 'timezone' is not supported.
+173.192.21.89,US,USA,United States,Texas,US-TX,,Dallas,75244-4608,32.93390,-96.82794,Field 'timezone' is not supported.
 173.208.249.76,US,USA,United States,Missouri,US-MO,,North Kansas City,64116-3820,39.13734,-94.57858,Field 'timezone' is not supported.
 173.212.195.139,DE,DEU,Germany,Bavaria,DE-BY,,Munich,81549,48.10425,11.60102,Field 'timezone' is not supported.
 173.245.49.10,US,USA,United States,California,US-CA,,San Francisco,94107-1907,37.78035,-122.39059,Field 'timezone' is not supported.
@@ -496,13 +496,13 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 173.249.31.157,DE,DEU,Germany,Bavaria,DE-BY,,Munich,81549,48.10425,11.60102,Field 'timezone' is not supported.
 173.82.149.243,US,USA,United States,California,US-CA,,Canyon Country,91387-3217,34.42641,-118.42677,Field 'timezone' is not supported.
 174.64.199.79,US,USA,United States,Georgia,US-GA,,Atlanta,30319-1418,33.91396,-84.34648,Field 'timezone' is not supported.
-174.70.1.210,US,USA,United States,Rhode Island,US-RI,,Providence,2903,41.82387,-71.41199,Field 'timezone' is not supported.
+174.70.1.210,US,USA,United States,Rhode Island,US-RI,,Providence,02903,41.82387,-71.41199,Field 'timezone' is not supported.
 175.141.69.200,MY,MYS,Malaysia,Wilayah Persekutuan,MY-15,,Kuala Lumpur,59100,3.11697,101.66876,Field 'timezone' is not supported.
 175.213.188.28,KR,KOR,South Korea,,,,Seongnam,,37.41043,127.13716,Field 'timezone' is not supported.
 175.9.103.61,CN,CHN,China,Hunan,CN-HN,,Changsha,,28.34746,112.81955,Field 'timezone' is not supported.
 176.118.151.156,UA,UKR,Ukraine,,,,Khmilnytskyi raion,22000,49.55901,27.95606,Field 'timezone' is not supported.
 176.126.111.113,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124527,55.75696,37.61502,Field 'timezone' is not supported.
-176.241.142.3,UA,UKR,Ukraine,,,,Kyiv,2000,50.4501,30.5234,Field 'timezone' is not supported.
+176.241.142.3,UA,UKR,Ukraine,,,,Kyiv,02000,50.45010,30.52340,Field 'timezone' is not supported.
 176.31.200.104,FR,FRA,France,Hauts-de-France,FR-HDF,,Roubaix,59100,50.69224,3.20003,Field 'timezone' is not supported.
 177.104.87.23,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sao Paulo,04551-000,-23.59595,-46.68445,Field 'timezone' is not supported.
 177.12.238.1,BR,BRA,Brazil,Rio Grande do Norte,BR-RN,,Natal,59078-000,-5.82903,-35.21128,Field 'timezone' is not supported.
@@ -515,17 +515,17 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 177.91.96.233,BR,BRA,Brazil,Bahia,BR-BA,,Luís Eduardo Magalhães,47850-000,-12.08782,-45.79885,Field 'timezone' is not supported.
 177.93.52.32,CO,COL,Colombia,,,,"Bogota, D.C.",110221,4.68095,-74.04201,Field 'timezone' is not supported.
 178.128.143.54,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
-178.128.153.38,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
+178.128.153.38,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
 178.128.173.12,GB,GBR,United Kingdom,England,GB-ENG,,London,SW1A 2,51.50643,-0.12719,Field 'timezone' is not supported.
 178.128.85.196,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
-178.136.2.208,UA,UKR,Ukraine,,,,Kiev,1001,50.45056,30.52428,Field 'timezone' is not supported.
-178.150.148.38,UA,UKR,Ukraine,,,,Kyiv,2000,50.4501,30.5234,Field 'timezone' is not supported.
+178.136.2.208,UA,UKR,Ukraine,,,,Kiev,01001,50.45056,30.52428,Field 'timezone' is not supported.
+178.150.148.38,UA,UKR,Ukraine,,,,Kyiv,02000,50.45010,30.52340,Field 'timezone' is not supported.
 178.20.212.193,US,USA,United States,New Jersey,US-NJ,,Newark,07102-3704,40.73611,-74.16963,Field 'timezone' is not supported.
-178.210.51.118,RU,RUS,Russia,Central Federal District,RU-CEN,,Voronezh,394019,51.6735,39.16857,Field 'timezone' is not supported.
+178.210.51.118,RU,RUS,Russia,Central Federal District,RU-CEN,,Voronezh,394019,51.67350,39.16857,Field 'timezone' is not supported.
 178.212.196.177,UA,UKR,Ukraine,,,,Odesa,65088,46.41518,30.73044,Field 'timezone' is not supported.
 178.62.193.19,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
-178.88.23.36,KZ,KAZ,Kazakhstan,,,,Almaty,50000,43.25119,76.94457,Field 'timezone' is not supported.
-179.43.81.135,PE,PER,Peru,Lima,PE-LIM,,Miraflores,15074,-12.1142,-77.04792,Field 'timezone' is not supported.
+178.88.23.36,KZ,KAZ,Kazakhstan,,,,Almaty,050000,43.25119,76.94457,Field 'timezone' is not supported.
+179.43.81.135,PE,PER,Peru,Lima,PE-LIM,,Miraflores,15074,-12.11420,-77.04792,Field 'timezone' is not supported.
 179.49.113.230,HN,HND,Honduras,,,,San Pedro Sula,,15.50395,-88.01573,Field 'timezone' is not supported.
 18.193.66.199,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 18.224.17.33,US,USA,United States,Ohio,US-OH,,,,39.96199,-83.00275,Field 'timezone' is not supported.
@@ -533,19 +533,19 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 18.230.75.97,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sao Paulo,01310-100,-23.56287,-46.65468,Field 'timezone' is not supported.
 180.178.106.137,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12710,-6.24041,106.82374,Field 'timezone' is not supported.
 180.178.111.221,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12710,-6.24041,106.82374,Field 'timezone' is not supported.
-180.183.173.20,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-180.183.225.128,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-180.183.4.165,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-180.210.178.30,BD,BGD,Bangladesh,Dhaka,BD-C,,Dhaka,,23.7658,90.42988,Field 'timezone' is not supported.
+180.183.173.20,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+180.183.225.128,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+180.183.4.165,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+180.210.178.30,BD,BGD,Bangladesh,Dhaka,BD-C,,Dhaka,,23.76580,90.42988,Field 'timezone' is not supported.
 180.211.91.44,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Bekasi Kota,17147,-6.25946,106.96804,Field 'timezone' is not supported.
 180.232.123.251,PH,PHL,Philippines,National Capital Region,PH-00,,Makati,1209,14.56179,121.01859,Field 'timezone' is not supported.
 180.250.204.91,ID,IDN,Indonesia,Pusat Ibu Kota Nusantara,,,Kutai Kartanegara,75571,-0.63833,116.76923,Field 'timezone' is not supported.
-181.143.106.162,CO,COL,Colombia,,,,Medellin,50003,6.29016,-75.5486,Field 'timezone' is not supported.
+181.143.106.162,CO,COL,Colombia,,,,Medellin,050003,6.29016,-75.54860,Field 'timezone' is not supported.
 181.193.213.130,CR,CRI,Costa Rica,San Jose,UY-SJ,,San Jose,10103,9.92975,-84.08569,Field 'timezone' is not supported.
 181.204.38.98,CO,COL,Colombia,,,,"Bogota, D.C.",111071,4.67147,-74.10587,Field 'timezone' is not supported.
 181.214.85.65,DO,DOM,Dominican Republic,,,,San José de Las Matas,51100,19.31311,-70.98791,Field 'timezone' is not supported.
 181.233.90.35,VE,VEN,Venezuela,Zulia,VE-V,,Cabimas,,10.39845,-71.44678,Field 'timezone' is not supported.
-181.29.212.139,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1425,-34.5752,-58.43593,Field 'timezone' is not supported.
+181.29.212.139,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1425,-34.57520,-58.43593,Field 'timezone' is not supported.
 181.48.161.194,CO,COL,Colombia,,,,"Bogota, D.C.",110931,4.65177,-74.10663,Field 'timezone' is not supported.
 181.78.27.38,PY,PRY,Paraguay,Asunción,PY-ASU,,Asunción,,-25.28197,-57.56174,Field 'timezone' is not supported.
 182.163.52.60,JP,JPN,Japan,Tokyo,JP-13,,Chiyoda,101-0047,35.69156,139.76755,Field 'timezone' is not supported.
@@ -554,15 +554,15 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 182.253.109.51,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10220,-6.20592,106.82198,Field 'timezone' is not supported.
 182.253.169.110,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12160,-6.24675,106.79996,Field 'timezone' is not supported.
 182.253.36.60,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12710,-6.24041,106.82374,Field 'timezone' is not supported.
-182.54.239.130,JP,JPN,Japan,Tokyo,JP-13,,Shinjuku City,160-0023,35.6895,139.6917,Field 'timezone' is not supported.
-182.72.203.242,IN,IND,India,Delhi,IN-DL,,Delhi,110020,28.5506,77.26802,Field 'timezone' is not supported.
-182.72.203.243,IN,IND,India,Delhi,IN-DL,,Delhi,110020,28.5506,77.26802,Field 'timezone' is not supported.
+182.54.239.130,JP,JPN,Japan,Tokyo,JP-13,,Shinjuku City,160-0023,35.68950,139.69170,Field 'timezone' is not supported.
+182.72.203.242,IN,IND,India,Delhi,IN-DL,,Delhi,110020,28.55060,77.26802,Field 'timezone' is not supported.
+182.72.203.243,IN,IND,India,Delhi,IN-DL,,Delhi,110020,28.55060,77.26802,Field 'timezone' is not supported.
 182.93.30.250,MO,MAC,Macao,,,,Macau,,22.20056,113.54611,Field 'timezone' is not supported.
 183.111.25.248,KR,KOR,South Korea,,,,Seongnam,,37.41043,127.13716,Field 'timezone' is not supported.
 183.157.172.27,CN,CHN,China,Zhejiang,CN-ZJ,,Hangzhou,,30.24255,120.16922,Field 'timezone' is not supported.
 183.21.81.212,CN,CHN,China,Guangdong,CN-GD,,Maoming,,21.50722,111.00726,Field 'timezone' is not supported.
-183.247.199.153,CN,CHN,China,Zhejiang,CN-ZJ,,Taizhou,,28.66138,121.4286,Field 'timezone' is not supported.
-183.247.199.215,CN,CHN,China,Zhejiang,CN-ZJ,,Taizhou,,28.66138,121.4286,Field 'timezone' is not supported.
+183.247.199.153,CN,CHN,China,Zhejiang,CN-ZJ,,Taizhou,,28.66138,121.42860,Field 'timezone' is not supported.
+183.247.199.215,CN,CHN,China,Zhejiang,CN-ZJ,,Taizhou,,28.66138,121.42860,Field 'timezone' is not supported.
 183.78.130.117,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 183.78.133.27,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 183.78.141.136,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
@@ -570,19 +570,19 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 183.78.145.29,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 183.78.154.154,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 183.78.158.58,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
-183.88.130.128,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-183.88.220.1,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-183.88.44.183,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-183.89.65.38,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-183.89.9.1,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
+183.88.130.128,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+183.88.220.1,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+183.88.44.183,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+183.89.65.38,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+183.89.9.1,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
 184.155.36.194,US,USA,United States,Idaho,US-ID,,Pocatello,83201,42.87497,-112.45056,Field 'timezone' is not supported.
-184.168.147.203,US,USA,United States,Arizona,US-AZ,,Tempe,85284-3401,33.3351,-111.89503,Field 'timezone' is not supported.
+184.168.147.203,US,USA,United States,Arizona,US-AZ,,Tempe,85284-3401,33.33510,-111.89503,Field 'timezone' is not supported.
 184.178.172.5,US,USA,United States,Georgia,US-GA,,Atlanta,30319-1418,33.91396,-84.34648,Field 'timezone' is not supported.
 184.82.238.202,TH,THA,Thailand,,,,Bangkok,10200,13.75336,100.50483,Field 'timezone' is not supported.
 185.101.20.104,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 185.101.20.252,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 185.101.21.111,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
-185.118.141.254,TR,TUR,Turkey,Ankara,TR-06,,Ankara,6680,39.8974,32.87622,Field 'timezone' is not supported.
+185.118.141.254,TR,TUR,Turkey,Ankara,TR-06,,Ankara,06680,39.89740,32.87622,Field 'timezone' is not supported.
 185.15.172.212,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,109316,55.71879,37.71445,Field 'timezone' is not supported.
 185.150.130.103,TR,TUR,Turkey,Izmir,TR-35,,Izmir,35090,38.42137,27.18588,Field 'timezone' is not supported.
 185.151.51.168,US,USA,United States,Michigan,US-MI,,Ann Arbor,48105-9732,42.25756,-83.68195,Field 'timezone' is not supported.
@@ -637,32 +637,32 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 185.162.231.66,GB,GBR,United Kingdom,England,GB-ENG,,London,NW7 2,51.60999,-0.24436,Field 'timezone' is not supported.
 185.162.231.73,GB,GBR,United Kingdom,England,GB-ENG,,London,NW7 2,51.60999,-0.24436,Field 'timezone' is not supported.
 185.162.231.90,GB,GBR,United Kingdom,England,GB-ENG,,London,NW7 2,51.60999,-0.24436,Field 'timezone' is not supported.
-185.164.57.168,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-185.164.57.193,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-185.164.57.253,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-185.164.57.60,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
+185.164.57.168,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+185.164.57.193,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+185.164.57.253,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+185.164.57.60,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
 185.169.183.173,TR,TUR,Turkey,Gaziantep,TR-27,,Gaziantep,27470,37.02578,37.29607,Field 'timezone' is not supported.
-185.171.230.19,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.191,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.209,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.21,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.23,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.44,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.54,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.61,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.230.94,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.0,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.121,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.150,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.160,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.234,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.38,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.51,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
-185.171.231.58,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.9327,Field 'timezone' is not supported.
+185.171.230.19,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.191,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.209,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.21,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.23,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.44,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.54,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.61,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.230.94,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.0,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.121,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.150,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.160,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.234,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.38,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.51,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
+185.171.231.58,CW,CUW,Curacao,,,,Curacao,,12.10363,-68.93270,Field 'timezone' is not supported.
 185.180.236.18,RU,RUS,Russia,Ural Federal District,RU-UFO,,Labytnangi,,66.65688,66.37219,Field 'timezone' is not supported.
-185.198.61.146,IT,ITA,Italy,Latium,IT-62,,Rome,185,41.90322,12.49565,Field 'timezone' is not supported.
+185.198.61.146,IT,ITA,Italy,Latium,IT-62,,Rome,00185,41.90322,12.49565,Field 'timezone' is not supported.
 185.200.38.235,TR,TUR,Turkey,Hatay,TR-31,,Antakya,31030,36.22773,36.13786,Field 'timezone' is not supported.
-185.213.242.178,PA,PAN,Panama,Panamá,PA-8,,Panama City,,8.95239,-79.5354,Field 'timezone' is not supported.
+185.213.242.178,PA,PAN,Panama,Panamá,PA-8,,Panama City,,8.95239,-79.53540,Field 'timezone' is not supported.
 185.217.137.242,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,,52.37018,4.87324,Field 'timezone' is not supported.
 185.221.237.65,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 185.238.228.122,GB,GBR,United Kingdom,England,GB-ENG,,St Albans,AL1 3TF,51.74918,-0.32647,Field 'timezone' is not supported.
@@ -679,18 +679,18 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 185.77.221.88,US,USA,United States,Wyoming,US-WY,,Cheyenne,82001-3527,41.13444,-104.82082,Field 'timezone' is not supported.
 185.88.100.115,DE,DEU,Germany,Hessen,DE-HE,,Frankfurt,60311,50.11092,8.68213,Field 'timezone' is not supported.
 186.126.77.200,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1107,-34.59902,-58.36783,Field 'timezone' is not supported.
-186.13.56.97,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1084,-34.60896,-58.3789,Field 'timezone' is not supported.
-186.159.3.193,CO,COL,Colombia,,,,Medellin,50015,6.24251,-75.57302,Field 'timezone' is not supported.
+186.13.56.97,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1084,-34.60896,-58.37890,Field 'timezone' is not supported.
+186.159.3.193,CO,COL,Colombia,,,,Medellin,050015,6.24251,-75.57302,Field 'timezone' is not supported.
 186.215.87.194,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sao Paulo,04571-000,-23.60879,-46.69435,Field 'timezone' is not supported.
 186.86.137.96,CO,COL,Colombia,,,,"Bogota, D.C.",110931,4.65177,-74.10663,Field 'timezone' is not supported.
 187.102.222.206,BR,BRA,Brazil,Minas Gerais,BR-MG,,Patos de Minas,38700-038,-18.58477,-46.51251,Field 'timezone' is not supported.
-187.130.139.197,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1900,19.32525,-99.214,Field 'timezone' is not supported.
-187.135.142.97,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1900,19.32525,-99.214,Field 'timezone' is not supported.
-187.171.90.4,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1900,19.32525,-99.214,Field 'timezone' is not supported.
+187.130.139.197,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01900,19.32525,-99.21400,Field 'timezone' is not supported.
+187.135.142.97,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01900,19.32525,-99.21400,Field 'timezone' is not supported.
+187.171.90.4,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01900,19.32525,-99.21400,Field 'timezone' is not supported.
 187.209.0.244,MX,MEX,Mexico,Mexico City,MX-CMX,,Tlalpan,14060,19.29825,-99.18516,Field 'timezone' is not supported.
 187.72.143.118,BR,BRA,Brazil,Minas Gerais,BR-MG,,Uberlândia,38400-668,-18.89293,-48.25806,Field 'timezone' is not supported.
 187.75.166.69,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sao Paulo,01310-100,-23.56287,-46.65468,Field 'timezone' is not supported.
-188.0.147.102,KZ,KAZ,Kazakhstan,,,,Almaty,50009,43.25066,76.88814,Field 'timezone' is not supported.
+188.0.147.102,KZ,KAZ,Kazakhstan,,,,Almaty,050009,43.25066,76.88814,Field 'timezone' is not supported.
 188.100.212.208,DE,DEU,Germany,Hesse,DE-HE,,Eschborn,65760,50.13272,8.57594,Field 'timezone' is not supported.
 188.114.96.28,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
 188.114.98.192,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
@@ -699,52 +699,52 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 188.133.197.122,RU,RUS,Russia,Siberian Federal District,RU-SIB,,Barnaul,656057,53.34946,83.63745,Field 'timezone' is not supported.
 188.166.17.159,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1098 XH,52.35384,4.96009,Field 'timezone' is not supported.
 188.226.141.127,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1105 AT,52.29572,4.94431,Field 'timezone' is not supported.
-188.40.96.177,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,8223,50.47914,12.33547,Field 'timezone' is not supported.
+188.40.96.177,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,08223,50.47914,12.33547,Field 'timezone' is not supported.
 188.68.231.113,PL,POL,Poland,Woj. Warmińsko-Mazurskie,PL-WN,,Olsztyn,10-062,53.77003,20.46477,Field 'timezone' is not supported.
-189.156.22.189,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1900,19.32525,-99.214,Field 'timezone' is not supported.
-189.174.143.230,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1900,19.32525,-99.214,Field 'timezone' is not supported.
-189.186.222.250,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1900,19.32525,-99.214,Field 'timezone' is not supported.
-189.204.254.186,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1260,19.36475,-99.25982,Field 'timezone' is not supported.
-189.250.72.50,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,1900,19.32525,-99.214,Field 'timezone' is not supported.
+189.156.22.189,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01900,19.32525,-99.21400,Field 'timezone' is not supported.
+189.174.143.230,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01900,19.32525,-99.21400,Field 'timezone' is not supported.
+189.186.222.250,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01900,19.32525,-99.21400,Field 'timezone' is not supported.
+189.204.254.186,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01260,19.36475,-99.25982,Field 'timezone' is not supported.
+189.250.72.50,MX,MEX,Mexico,Mexico City,MX-CMX,,Álvaro Obregón,01900,19.32525,-99.21400,Field 'timezone' is not supported.
 190.104.245.86,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1066,-34.60849,-58.37344,Field 'timezone' is not supported.
-190.107.237.10,EC,ECU,Ecuador,Carchi,EC-C,,Tulcán,40103,0.80314,-77.72639,Field 'timezone' is not supported.
-190.107.237.13,EC,ECU,Ecuador,Carchi,EC-C,,Tulcán,40103,0.80314,-77.72639,Field 'timezone' is not supported.
-190.108.82.104,PE,PER,Peru,Callao,PE-CAL,,Lima,7031,-12.02359,-77.10862,Field 'timezone' is not supported.
+190.107.237.10,EC,ECU,Ecuador,Carchi,EC-C,,Tulcán,040103,0.80314,-77.72639,Field 'timezone' is not supported.
+190.107.237.13,EC,ECU,Ecuador,Carchi,EC-C,,Tulcán,040103,0.80314,-77.72639,Field 'timezone' is not supported.
+190.108.82.104,PE,PER,Peru,Callao,PE-CAL,,Lima,07031,-12.02359,-77.10862,Field 'timezone' is not supported.
 190.109.17.218,CO,COL,Colombia,,,,"Bogota, D.C.",111221,4.65995,-74.06648,Field 'timezone' is not supported.
 190.140.122.106,PA,PAN,Panama,Panamá,PA-8,,Panama City,,9.01267,-79.51428,Field 'timezone' is not supported.
-190.152.5.17,EC,ECU,Ecuador,Pichincha,EC-P,,Quito,,-0.2001,-78.49415,Field 'timezone' is not supported.
+190.152.5.17,EC,ECU,Ecuador,Pichincha,EC-P,,Quito,,-0.20010,-78.49415,Field 'timezone' is not supported.
 190.180.35.148,BO,BOL,Bolivia,Santa Cruz,CV-CR,,Santa Cruz de la Sierra,,-17.78276,-63.17993,Field 'timezone' is not supported.
 190.43.92.190,PE,PER,Peru,Lima,PE-LIM,,Lima,15048,-12.10916,-77.01642,Field 'timezone' is not supported.
-190.61.101.205,GT,GTM,Guatemala,,,,Guatemala,1010,14.60443,-90.51576,Field 'timezone' is not supported.
-190.65.221.38,CO,COL,Colombia,,,,"Bogota, D.C.",111121,4.69778,-74.0696,Field 'timezone' is not supported.
+190.61.101.205,GT,GTM,Guatemala,,,,Guatemala,01010,14.60443,-90.51576,Field 'timezone' is not supported.
+190.65.221.38,CO,COL,Colombia,,,,"Bogota, D.C.",111121,4.69778,-74.06960,Field 'timezone' is not supported.
 191.101.251.130,CL,CHL,Chile,Region Santiago Metropolitan,CL-RM,,,,-33.43722,-70.65002,Field 'timezone' is not supported.
 191.101.251.159,CL,CHL,Chile,Region Santiago Metropolitan,CL-RM,,,,-33.43722,-70.65002,Field 'timezone' is not supported.
 191.101.251.205,CL,CHL,Chile,Region Santiago Metropolitan,CL-RM,,,,-33.43722,-70.65002,Field 'timezone' is not supported.
 191.101.251.64,CL,CHL,Chile,Region Santiago Metropolitan,CL-RM,,,,-33.43722,-70.65002,Field 'timezone' is not supported.
 191.101.251.94,CL,CHL,Chile,Region Santiago Metropolitan,CL-RM,,,,-33.43722,-70.65002,Field 'timezone' is not supported.
 191.102.107.235,CO,COL,Colombia,,,,"Bogota, D.C.",110221,4.68095,-74.04201,Field 'timezone' is not supported.
-191.103.219.225,CO,COL,Colombia,,,,Medellin,50015,6.24251,-75.57302,Field 'timezone' is not supported.
+191.103.219.225,CO,COL,Colombia,,,,Medellin,050015,6.24251,-75.57302,Field 'timezone' is not supported.
 191.7.209.186,BR,BRA,Brazil,Ceara,BR-CE,,Quixadá,63900-000,-4.97057,-39.01364,Field 'timezone' is not supported.
 191.97.16.118,VE,VEN,Venezuela,Capital District,VE-A,,Caracas,,10.50526,-66.91776,Field 'timezone' is not supported.
-191.97.58.212,PE,PER,Peru,Callao,PE-CAL,,Lima,7031,-12.02359,-77.10862,Field 'timezone' is not supported.
-192.111.129.145,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.9234,-84.4687,Field 'timezone' is not supported.
-192.111.137.34,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.9234,-84.4687,Field 'timezone' is not supported.
+191.97.58.212,PE,PER,Peru,Callao,PE-CAL,,Lima,07031,-12.02359,-77.10862,Field 'timezone' is not supported.
+192.111.129.145,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.92340,-84.46870,Field 'timezone' is not supported.
+192.111.137.34,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.92340,-84.46870,Field 'timezone' is not supported.
 192.169.127.46,JP,JPN,Japan,,,,Tokyo,,35.68408,139.80885,Field 'timezone' is not supported.
-192.198.126.113,US,USA,United States,California,US-CA,,Los Angeles,90045-5300,33.9457,-118.39324,Field 'timezone' is not supported.
-192.252.208.67,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.9234,-84.4687,Field 'timezone' is not supported.
+192.198.126.113,US,USA,United States,California,US-CA,,Los Angeles,90045-5300,33.94570,-118.39324,Field 'timezone' is not supported.
+192.252.208.67,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.92340,-84.46870,Field 'timezone' is not supported.
 192.252.220.92,US,USA,United States,California,US-CA,,Los Angeles,90014-1203,34.04835,-118.25518,Field 'timezone' is not supported.
 192.46.233.69,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 192.99.182.243,US,USA,United States,New Jersey,US-NJ,,Newark,07102-2812,40.73686,-74.17337,Field 'timezone' is not supported.
 192.99.92.27,FR,FRA,France,Normandy,FR-NOR,,Le Havre,76600,49.49532,0.11068,Field 'timezone' is not supported.
 193.0.178.98,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,,52.37018,4.87324,Field 'timezone' is not supported.
-193.106.99.140,KZ,KAZ,Kazakhstan,Akmola Province,KZ-AKM,,Nur-Sultan,20000,51.14922,71.40348,Field 'timezone' is not supported.
+193.106.99.140,KZ,KAZ,Kazakhstan,Akmola Province,KZ-AKM,,Nur-Sultan,020000,51.14922,71.40348,Field 'timezone' is not supported.
 193.110.115.220,UA,UKR,Ukraine,,,,Kramatorsk,,48.73641,37.59037,Field 'timezone' is not supported.
-193.122.134.214,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
+193.122.134.214,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
 193.122.71.184,SA,SAU,Saudi Arabia,,,,Jeddah,22246,21.49062,39.22381,Field 'timezone' is not supported.
 193.151.160.179,CZ,CZE,Czech Republic,Prague,CZ-PR,,Prague,110 00,50.07913,14.43302,Field 'timezone' is not supported.
 193.202.16.118,US,USA,United States,New Jersey,US-NJ,,Newark,07102-3704,40.73611,-74.16963,Field 'timezone' is not supported.
 193.202.16.190,US,USA,United States,New Jersey,US-NJ,,Newark,07102-3704,40.73611,-74.16963,Field 'timezone' is not supported.
-193.202.82.55,GB,GBR,United Kingdom,England,GB-ENG,,Manchester,M1,53.4809,-2.23743,Field 'timezone' is not supported.
+193.202.82.55,GB,GBR,United Kingdom,England,GB-ENG,,Manchester,M1,53.48090,-2.23743,Field 'timezone' is not supported.
 193.233.140.90,US,USA,United States,Wyoming,US-WY,,Cheyenne,82001-3527,41.13444,-104.82082,Field 'timezone' is not supported.
 193.233.141.176,US,USA,United States,Wyoming,US-WY,,Cheyenne,82001-3527,41.13444,-104.82082,Field 'timezone' is not supported.
 193.233.141.187,US,USA,United States,Wyoming,US-WY,,Cheyenne,82001-3527,41.13444,-104.82082,Field 'timezone' is not supported.
@@ -759,30 +759,30 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 193.56.64.232,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,117461,55.64945,37.57323,Field 'timezone' is not supported.
 194.110.150.11,US,USA,United States,New Jersey,US-NJ,,Newark,07102-3704,40.73611,-74.16963,Field 'timezone' is not supported.
 194.110.150.200,US,USA,United States,New Jersey,US-NJ,,Newark,07102-3704,40.73611,-74.16963,Field 'timezone' is not supported.
-194.163.40.130,SG,SGP,Singapore,,,,Singapore,1,1.27857,103.85762,Field 'timezone' is not supported.
-194.183.168.4,UA,UKR,Ukraine,,,,Kiev,1001,50.45056,30.52428,Field 'timezone' is not supported.
+194.163.40.130,SG,SGP,Singapore,,,,Singapore,01,1.27857,103.85762,Field 'timezone' is not supported.
+194.183.168.4,UA,UKR,Ukraine,,,,Kiev,01001,50.45056,30.52428,Field 'timezone' is not supported.
 194.195.213.197,US,USA,United States,Georgia,US-GA,,Atlanta,30303,33.74831,-84.39111,Field 'timezone' is not supported.
-194.250.57.253,FR,FRA,France,Occitanie,FR-OCC,,Blagnac,31700,43.63519,1.3761,Field 'timezone' is not supported.
+194.250.57.253,FR,FRA,France,Occitanie,FR-OCC,,Blagnac,31700,43.63519,1.37610,Field 'timezone' is not supported.
 194.67.91.153,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,125476,55.83373,37.40255,Field 'timezone' is not supported.
 194.87.188.114,TR,TUR,Turkey,Bursa,TR-16,,Bursa,16080,40.20305,29.07828,Field 'timezone' is not supported.
 195.133.45.112,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,127051,55.77129,37.62298,Field 'timezone' is not supported.
-195.138.90.226,UA,UKR,Ukraine,,,,Odesa,65011,46.4725,30.73711,Field 'timezone' is not supported.
+195.138.90.226,UA,UKR,Ukraine,,,,Odesa,65011,46.47250,30.73711,Field 'timezone' is not supported.
 195.178.56.35,RS,SRB,Serbia,Centralna Srbija,RS-00,,Smederevo,11300,44.66599,20.92361,Field 'timezone' is not supported.
-196.12.163.66,PR,PRI,Puerto Rico,,,,Guaynabo,965,18.42722,-66.11452,Field 'timezone' is not supported.
-196.179.204.9,TN,TUN,Tunisia,,,,Tunis,,36.80001,10.1827,Field 'timezone' is not supported.
-197.232.39.208,KE,KEN,Kenya,,,,Nairobi,,-1.2749,36.78175,Field 'timezone' is not supported.
+196.12.163.66,PR,PRI,Puerto Rico,,,,Guaynabo,00965,18.42722,-66.11452,Field 'timezone' is not supported.
+196.179.204.9,TN,TUN,Tunisia,,,,Tunis,,36.80001,10.18270,Field 'timezone' is not supported.
+197.232.39.208,KE,KEN,Kenya,,,,Nairobi,,-1.27490,36.78175,Field 'timezone' is not supported.
 198.229.231.13,US,USA,United States,Pennsylvania,US-PA,,Doylestown,18901-2858,40.27911,-75.12653,Field 'timezone' is not supported.
 198.49.68.80,US,USA,United States,Florida,UY-FD,,Orlando,32801-3200,28.54062,-81.37847,Field 'timezone' is not supported.
 198.59.191.234,US,USA,United States,New Mexico,US-NM,,Las Cruces,88001,32.30691,-106.77785,Field 'timezone' is not supported.
-198.8.94.170,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.9234,-84.4687,Field 'timezone' is not supported.
-2.138.31.92,ES,ESP,Spain,Community of Madrid,ES-MD,,Madrid,28050,40.51606,-3.663,Field 'timezone' is not supported.
+198.8.94.170,US,USA,United States,Georgia,US-GA,,Marietta,30067-5753,33.92340,-84.46870,Field 'timezone' is not supported.
+2.138.31.92,ES,ESP,Spain,Community of Madrid,ES-MD,,Madrid,28050,40.51606,-3.66300,Field 'timezone' is not supported.
 2.228.87.55,IT,ITA,Italy,Lombardy,IT-25,,Milan,20155,45.49066,9.16032,Field 'timezone' is not supported.
 20.106.144.171,US,USA,United States,Washington,US-WA,,,,47.03956,-122.89166,Field 'timezone' is not supported.
-20.110.99.169,US,USA,United States,Virginia,US-VA,,Boydton,23917,36.66744,-78.3884,Field 'timezone' is not supported.
-20.111.52.84,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.111.54.16,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.111.61.10,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.111.62.189,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
+20.110.99.169,US,USA,United States,Virginia,US-VA,,Boydton,23917,36.66744,-78.38840,Field 'timezone' is not supported.
+20.111.52.84,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.111.54.16,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.111.61.10,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.111.62.189,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
 20.113.136.195,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 20.113.137.1,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 20.113.143.102,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
@@ -792,29 +792,29 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 20.113.182.164,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 20.113.60.36,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 20.113.62.248,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
-20.119.204.44,US,USA,United States,Virginia,US-VA,,Boydton,23917,36.66744,-78.3884,Field 'timezone' is not supported.
+20.119.204.44,US,USA,United States,Virginia,US-VA,,Boydton,23917,36.66744,-78.38840,Field 'timezone' is not supported.
 20.123.146.105,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,,52.37018,4.87324,Field 'timezone' is not supported.
 20.16.90.78,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,,52.37018,4.87324,Field 'timezone' is not supported.
 20.163.162.168,US,USA,United States,Washington,US-WA,,,,47.03956,-122.89166,Field 'timezone' is not supported.
 20.163.162.57,US,USA,United States,Washington,US-WA,,,,47.03956,-122.89166,Field 'timezone' is not supported.
-20.163.80.88,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
-20.187.117.246,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.187.69.80,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.187.70.249,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.187.84.29,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.188.33.236,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.188.37.29,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.188.38.28,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.188.47.85,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.205.109.189,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.205.12.114,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
+20.163.80.88,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
+20.187.117.246,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.187.69.80,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.187.70.249,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.187.84.29,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.188.33.236,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.188.37.29,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.188.38.28,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.188.47.85,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.205.109.189,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.205.12.114,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
 20.205.205.169,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
 20.205.205.175,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
-20.205.37.243,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.205.41.88,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.205.42.232,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.205.43.55,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.205.98.104,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
+20.205.37.243,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.205.41.88,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.205.42.232,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.205.43.55,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.205.98.104,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
 20.206.101.1,BR,BRA,Brazil,Sao Paulo,BR-SP,,Campinas,13106-028,-22.90906,-47.06455,Field 'timezone' is not supported.
 20.206.102.27,BR,BRA,Brazil,Sao Paulo,BR-SP,,Campinas,13106-028,-22.90906,-47.06455,Field 'timezone' is not supported.
 20.206.106.192,BR,BRA,Brazil,Sao Paulo,BR-SP,,Campinas,13106-028,-22.90906,-47.06455,Field 'timezone' is not supported.
@@ -830,41 +830,41 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 20.206.98.174,BR,BRA,Brazil,Sao Paulo,BR-SP,,Campinas,13106-028,-22.90906,-47.06455,Field 'timezone' is not supported.
 20.206.98.71,BR,BRA,Brazil,Sao Paulo,BR-SP,,Campinas,13106-028,-22.90906,-47.06455,Field 'timezone' is not supported.
 20.210.103.34,JP,JPN,Japan,Tokyo Metropolis,JP-13,,Tokyo,,35.68467,139.80881,Field 'timezone' is not supported.
-20.213.100.107,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.8696,151.20691,Field 'timezone' is not supported.
-20.213.123.245,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.8696,151.20691,Field 'timezone' is not supported.
+20.213.100.107,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.86960,151.20691,Field 'timezone' is not supported.
+20.213.123.245,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.86960,151.20691,Field 'timezone' is not supported.
 20.213.232.137,AU,AUS,Australia,Australian Capital Territory,AU-ACT,,Canberra,2600,-35.30654,149.12655,Field 'timezone' is not supported.
 20.213.247.195,AU,AUS,Australia,Australian Capital Territory,AU-ACT,,Canberra,2600,-35.30654,149.12655,Field 'timezone' is not supported.
 20.213.250.106,AU,AUS,Australia,Australian Capital Territory,AU-ACT,,Canberra,2600,-35.30654,149.12655,Field 'timezone' is not supported.
-20.213.51.246,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.8696,151.20691,Field 'timezone' is not supported.
+20.213.51.246,AU,AUS,Australia,New South Wales,AU-NSW,,Sydney,2000,-33.86960,151.20691,Field 'timezone' is not supported.
 20.228.217.236,US,USA,United States,Washington,US-WA,,,,47.03956,-122.89166,Field 'timezone' is not supported.
 20.228.221.183,US,USA,United States,Washington,US-WA,,,,47.03956,-122.89166,Field 'timezone' is not supported.
-20.230.175.193,US,USA,United States,Washington,US-WA,,Moses Lake,98837,47.13196,-119.2771,Field 'timezone' is not supported.
-20.239.154.245,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.239.196.58,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.239.53.82,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.239.85.167,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.239.86.234,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
+20.230.175.193,US,USA,United States,Washington,US-WA,,Moses Lake,98837,47.13196,-119.27710,Field 'timezone' is not supported.
+20.239.154.245,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.239.196.58,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.239.53.82,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.239.85.167,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.239.86.234,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
 20.24.157.40,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
 20.24.159.74,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
 20.24.181.133,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
-20.24.202.114,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.24.72.149,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.24.75.68,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.24.83.157,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.24.87.238,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-20.25.167.141,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
-20.25.167.163,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
+20.24.202.114,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.24.72.149,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.24.75.68,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.24.83.157,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.24.87.238,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+20.25.167.141,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
+20.25.167.163,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
 20.254.31.111,GB,GBR,United Kingdom,England,GB-ENG,,London,NW7 2,51.60999,-0.24436,Field 'timezone' is not supported.
 20.254.52.236,GB,GBR,United Kingdom,England,GB-ENG,,London,NW7 2,51.60999,-0.24436,Field 'timezone' is not supported.
-20.43.56.37,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.43.57.71,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.43.57.79,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.43.59.33,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-20.43.60.47,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
+20.43.56.37,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.43.57.71,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.43.57.79,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.43.59.33,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+20.43.60.47,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
 20.54.56.26,IE,IRL,Ireland,,,,Dublin,1,53.34807,-6.24827,Field 'timezone' is not supported.
 20.68.108.44,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
 20.68.122.191,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
-20.7.175.75,US,USA,United States,Virginia,US-VA,,Boydton,23917,36.66744,-78.3884,Field 'timezone' is not supported.
+20.7.175.75,US,USA,United States,Virginia,US-VA,,Boydton,23917,36.66744,-78.38840,Field 'timezone' is not supported.
 20.77.246.224,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
 20.77.252.14,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
 20.77.252.146,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
@@ -898,21 +898,21 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 20.90.30.94,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
 20.90.42.211,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
 200.103.102.18,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sao Paulo,04578-000,-23.60991,-46.69767,Field 'timezone' is not supported.
-200.105.215.18,BO,BOL,Bolivia,La Paz,BO-L,,La Paz,,-16.5424,-68.08783,Field 'timezone' is not supported.
-200.105.215.22,BO,BOL,Bolivia,La Paz,BO-L,,La Paz,,-16.5424,-68.08783,Field 'timezone' is not supported.
+200.105.215.18,BO,BOL,Bolivia,La Paz,BO-L,,La Paz,,-16.54240,-68.08783,Field 'timezone' is not supported.
+200.105.215.22,BO,BOL,Bolivia,La Paz,BO-L,,La Paz,,-16.54240,-68.08783,Field 'timezone' is not supported.
 200.119.89.19,CO,COL,Colombia,Santander,CO-SAN,,Chimita,680008,7.14283,-73.06717,Field 'timezone' is not supported.
 200.131.157.120,BR,BRA,Brazil,Rio de Janeiro,BR-RJ,,Rio de Janeiro,,-22.91216,-43.17501,Field 'timezone' is not supported.
 200.25.254.193,CO,COL,Colombia,,,,"Bogota, D.C.",111221,4.66642,-74.07355,Field 'timezone' is not supported.
-200.60.87.202,PE,PER,Peru,Lima,PE-LIM,,Lima,15001,-12.0568,-77.03953,Field 'timezone' is not supported.
-200.62.96.71,NI,NIC,Nicaragua,,,,Managua,,12.1172,-86.24081,Field 'timezone' is not supported.
+200.60.87.202,PE,PER,Peru,Lima,PE-LIM,,Lima,15001,-12.05680,-77.03953,Field 'timezone' is not supported.
+200.62.96.71,NI,NIC,Nicaragua,,,,Managua,,12.11720,-86.24081,Field 'timezone' is not supported.
 200.63.65.64,AR,ARG,Argentina,Buenos Aires,AR-B,,Mar del Plata,7603,-38.06953,-57.57901,Field 'timezone' is not supported.
 200.7.11.154,BR,BRA,Brazil,Goias,BR-GO,,Itumbiara,75513-130,-18.40151,-49.22098,Field 'timezone' is not supported.
 200.81.187.18,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1260,-34.63492,-58.41169,Field 'timezone' is not supported.
 200.85.169.18,NI,NIC,Nicaragua,,,,Managua,,12.10487,-86.24776,Field 'timezone' is not supported.
-201.131.239.234,MX,MEX,Mexico,Zacatecas,MX-ZAC,,Fresnillo,99011,23.1971,-102.87041,Field 'timezone' is not supported.
+201.131.239.234,MX,MEX,Mexico,Zacatecas,MX-ZAC,,Fresnillo,99011,23.19710,-102.87041,Field 'timezone' is not supported.
 201.158.44.163,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sorocaba,18013-280,-23.47438,-47.42233,Field 'timezone' is not supported.
 201.16.217.221,BR,BRA,Brazil,Minas Gerais,BR-MG,,Uberlândia,38400-668,-18.89293,-48.25806,Field 'timezone' is not supported.
-201.182.251.94,CO,COL,Colombia,,,,Pasto,520003,1.2095,-77.27668,Field 'timezone' is not supported.
+201.182.251.94,CO,COL,Colombia,,,,Pasto,520003,1.20950,-77.27668,Field 'timezone' is not supported.
 201.197.202.244,CR,CRI,Costa Rica,San Jose,UY-SJ,,San Jose,10103,9.92975,-84.08569,Field 'timezone' is not supported.
 201.217.49.2,PY,PRY,Paraguay,,,,Asuncion,1221,-25.28291,-57.63678,Field 'timezone' is not supported.
 201.220.112.98,CL,CHL,Chile,Los Rios,EC-R,,Valdivia,5090000,-39.81589,-73.24726,Field 'timezone' is not supported.
@@ -920,12 +920,12 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 201.229.250.20,DO,DOM,Dominican Republic,,,,Santo Domingo,,18.48178,-69.91091,Field 'timezone' is not supported.
 201.69.120.11,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sao Paulo,01310-100,-23.56287,-46.65468,Field 'timezone' is not supported.
 201.76.9.26,BR,BRA,Brazil,Santa Catarina,CV-CA,,Araranguá,88904-150,-28.95349,-49.50346,Field 'timezone' is not supported.
-201.77.108.225,MX,MEX,Mexico,Chihuahua,MX-CHH,,Chihuahua,31140,28.61492,-105.9697,Field 'timezone' is not supported.
-201.77.109.129,MX,MEX,Mexico,Chihuahua,MX-CHH,,Chihuahua,31140,28.61492,-105.9697,Field 'timezone' is not supported.
-201.77.110.129,MX,MEX,Mexico,Chihuahua,MX-CHH,,Chihuahua,31140,28.61492,-105.9697,Field 'timezone' is not supported.
+201.77.108.225,MX,MEX,Mexico,Chihuahua,MX-CHH,,Chihuahua,31140,28.61492,-105.96970,Field 'timezone' is not supported.
+201.77.109.129,MX,MEX,Mexico,Chihuahua,MX-CHH,,Chihuahua,31140,28.61492,-105.96970,Field 'timezone' is not supported.
+201.77.110.129,MX,MEX,Mexico,Chihuahua,MX-CHH,,Chihuahua,31140,28.61492,-105.96970,Field 'timezone' is not supported.
 202.109.157.67,CN,CHN,China,Jiangxi,CN-JX,,Ganzhou,,26.47227,116.01565,Field 'timezone' is not supported.
 202.137.26.6,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12710,-6.24041,106.82374,Field 'timezone' is not supported.
-202.144.157.1,BT,BTN,Bhutan,,,,Bhutan,,27.47003,89.6398,Field 'timezone' is not supported.
+202.144.157.1,BT,BTN,Bhutan,,,,Bhutan,,27.47003,89.63980,Field 'timezone' is not supported.
 202.147.198.115,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10340,-6.18402,106.83156,Field 'timezone' is not supported.
 202.40.177.69,BD,BGD,Bangladesh,Dhaka,BD-C,,Dhaka,,23.76485,90.38608,Field 'timezone' is not supported.
 202.53.172.75,BD,BGD,Bangladesh,Dhaka,BD-C,,Dhaka,,23.78943,90.41627,Field 'timezone' is not supported.
@@ -934,27 +934,27 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 203.109.22.93,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 203.109.26.4,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 203.128.75.196,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,12950,-6.23273,106.83229,Field 'timezone' is not supported.
-203.13.32.189,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.13.32.23,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.13.32.250,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.13.32.42,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.13.32.48,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.13.32.88,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
+203.13.32.189,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.13.32.23,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.13.32.250,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.13.32.42,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.13.32.48,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.13.32.88,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
 203.170.75.14,PK,PAK,Pakistan,Sindh,PK-SD,,Karachi,,24.86592,67.06521,Field 'timezone' is not supported.
 203.198.207.253,HK,HKG,Hong Kong,Hong Kong Island,CN-HK,,,,22.28678,114.15057,Field 'timezone' is not supported.
-203.22.223.145,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.147,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.16,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.164,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.201,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.216,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.243,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.248,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.39,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.43,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.47,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.62,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.22.223.93,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
+203.22.223.145,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.147,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.16,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.164,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.201,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.216,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.243,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.248,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.39,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.43,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.47,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.62,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.22.223.93,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
 203.23.103.100,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.23.103.12,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.23.103.138,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
@@ -965,26 +965,26 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 203.23.103.246,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.23.103.3,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.23.103.48,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
-203.23.104.0,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.107,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.11,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.117,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.119,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.123,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.126,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.130,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.177,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.181,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.190,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.211,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.104.40,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.106.12,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.106.120,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.106.128,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.106.172,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.106.21,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.106.50,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.23.106.57,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
+203.23.104.0,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.107,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.11,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.117,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.119,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.123,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.126,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.130,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.177,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.181,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.190,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.211,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.104.40,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.106.12,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.106.120,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.106.128,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.106.172,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.106.21,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.106.50,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.23.106.57,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
 203.24.102.101,VG,VGB,British Virgin Islands,Tortola,TC-I,,Road Town,,18.42806,-64.61353,Field 'timezone' is not supported.
 203.24.102.130,VG,VGB,British Virgin Islands,Tortola,TC-I,,Road Town,,18.42806,-64.61353,Field 'timezone' is not supported.
 203.24.102.153,VG,VGB,British Virgin Islands,Tortola,TC-I,,Road Town,,18.42806,-64.61353,Field 'timezone' is not supported.
@@ -1004,18 +1004,18 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 203.24.103.70,VG,VGB,British Virgin Islands,Tortola,TC-I,,Road Town,,18.42806,-64.61353,Field 'timezone' is not supported.
 203.24.103.71,VG,VGB,British Virgin Islands,Tortola,TC-I,,Road Town,,18.42806,-64.61353,Field 'timezone' is not supported.
 203.24.103.74,VG,VGB,British Virgin Islands,Tortola,TC-I,,Road Town,,18.42806,-64.61353,Field 'timezone' is not supported.
-203.24.108.100,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.102,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.111,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.122,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.13,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.136,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.151,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.159,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.186,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.197,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.37,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.24.108.39,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
+203.24.108.100,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.102,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.111,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.122,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.13,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.136,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.151,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.159,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.186,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.197,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.37,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.24.108.39,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
 203.24.109.123,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.24.109.13,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.24.109.161,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
@@ -1027,31 +1027,31 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 203.24.109.59,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.24.109.83,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.243.51.69,KR,KOR,South Korea,,,,Seongnam,,37.41043,127.13716,Field 'timezone' is not supported.
-203.28.8.0,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.111,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.116,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.129,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.130,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.159,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.166,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.168,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.18,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.233,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.43,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.8.58,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.110,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.111,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.118,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.124,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.187,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.2,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.206,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.221,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.240,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.37,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.61,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.84,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
-203.28.9.87,CY,CYP,Cyprus,,,,,2063,35.15991,33.3475,Field 'timezone' is not supported.
+203.28.8.0,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.111,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.116,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.129,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.130,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.159,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.166,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.168,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.18,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.233,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.43,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.8.58,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.110,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.111,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.118,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.124,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.187,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.2,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.206,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.221,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.240,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.37,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.61,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.84,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
+203.28.9.87,CY,CYP,Cyprus,,,,,2063,35.15991,33.34750,Field 'timezone' is not supported.
 203.30.188.12,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.30.188.152,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
 203.30.188.155,BZ,BLZ,Belize,,,,Belmopan,,17.25414,-88.77042,Field 'timezone' is not supported.
@@ -1139,22 +1139,22 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 205.201.49.162,US,USA,United States,Missouri,US-MO,,Bernie,63822-9789,36.66958,-89.96847,Field 'timezone' is not supported.
 205.207.103.33,US,USA,United States,Kentucky,US-KY,,Flemingsburg,41041-1203,38.42076,-83.73502,Field 'timezone' is not supported.
 206.189.146.13,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
-206.53.53.5,PL,POL,Poland,Woj. Mazowieckie,PL-MZ,,Warsaw,02-673,52.1864,20.99682,Field 'timezone' is not supported.
+206.53.53.5,PL,POL,Poland,Woj. Mazowieckie,PL-MZ,,Warsaw,02-673,52.18640,20.99682,Field 'timezone' is not supported.
 207.180.218.96,DE,DEU,Germany,Bavaria,DE-BY,,Munich,81549,48.10425,11.60102,Field 'timezone' is not supported.
 207.180.224.75,DE,DEU,Germany,Bavaria,DE-BY,,Munich,81549,48.10425,11.60102,Field 'timezone' is not supported.
 207.188.11.31,US,USA,United States,Colorado,US-CO,,Greenwood Village,80111-3100,39.61796,-104.89112,Field 'timezone' is not supported.
 207.46.228.129,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
 207.46.237.37,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
-208.123.97.108,US,USA,United States,Texas,US-TX,,McAllen,78501-2677,26.2033,-98.22586,Field 'timezone' is not supported.
+208.123.97.108,US,USA,United States,Texas,US-TX,,McAllen,78501-2677,26.20330,-98.22586,Field 'timezone' is not supported.
 209.97.176.112,GB,GBR,United Kingdom,England,GB-ENG,,London,SW1A 2,51.50643,-0.12719,Field 'timezone' is not supported.
 210.211.122.40,VN,VNM,Vietnam,,,,Huyện Thạch Thất,13117,20.99078,105.55255,Field 'timezone' is not supported.
 212.112.97.27,KG,KGZ,Kyrgyzstan,Chuy Province,KG-C,,Bishkek,,42.87462,74.56976,Field 'timezone' is not supported.
-212.119.41.163,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
-212.119.41.220,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
+212.119.41.163,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
+212.119.41.220,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
 212.14.243.29,PS,PSE,State of Palestine,West Bank,PS-WB,,Nablus,1570,32.22267,35.26215,Field 'timezone' is not supported.
 212.46.230.102,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,111250,55.75612,37.70232,Field 'timezone' is not supported.
 213.108.1.152,US,USA,United States,New York,US-NY,,New York,10007,40.71278,-74.00597,Field 'timezone' is not supported.
-213.14.174.70,TR,TUR,Turkey,Istanbul,TR-34,,Istanbul,34394,41.069,29.00487,Field 'timezone' is not supported.
+213.14.174.70,TR,TUR,Turkey,Istanbul,TR-34,,Istanbul,34394,41.06900,29.00487,Field 'timezone' is not supported.
 213.166.76.47,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
 213.166.76.70,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
 213.212.210.252,EG,EGY,Egypt,,,,El Maadi,,29.96251,31.26145,Field 'timezone' is not supported.
@@ -1165,23 +1165,23 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 216.74.255.182,US,USA,United States,Texas,US-TX,,Houston,77024-3808,29.77987,-95.45613,Field 'timezone' is not supported.
 217.11.184.27,TJ,TJK,Tajikistan,,,,Dushanbe,,38.57397,68.78584,Field 'timezone' is not supported.
 217.113.122.142,RU,RUS,Russia,Volga Federal District,RU-VOL,,Togliatti,445042,53.53085,49.31221,Field 'timezone' is not supported.
-217.23.6.40,NL,NLD,Netherlands,South Holland,NL-ZH,,Naaldwijk,2671 CT,52.00112,4.2107,Field 'timezone' is not supported.
+217.23.6.40,NL,NLD,Netherlands,South Holland,NL-ZH,,Naaldwijk,2671 CT,52.00112,4.21070,Field 'timezone' is not supported.
 217.97.101.134,PL,POL,Poland,Mazowieckie,PL-MZ,,Warszawa,00-686,52.22744,21.00902,Field 'timezone' is not supported.
-218.102.244.2,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2665,114.24677,Field 'timezone' is not supported.
-218.190.235.175,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,New Territories,,22.34434,114.1121,Field 'timezone' is not supported.
+218.102.244.2,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.26650,114.24677,Field 'timezone' is not supported.
+218.190.235.175,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,New Territories,,22.34434,114.11210,Field 'timezone' is not supported.
 218.75.69.50,CN,CHN,China,Zhejiang,CN-ZJ,,Hangzhou,,30.25949,120.12979,Field 'timezone' is not supported.
-219.78.228.211,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2665,114.24677,Field 'timezone' is not supported.
+219.78.228.211,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.26650,114.24677,Field 'timezone' is not supported.
 220.247.171.90,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Depok,16544,-6.34034,106.78916,Field 'timezone' is not supported.
 221.132.18.26,VN,VNM,Vietnam,,,,,,21.02888,105.85464,Field 'timezone' is not supported.
 222.124.219.42,ID,IDN,Indonesia,,,,Murung Raya,73911,-0.63366,114.61095,Field 'timezone' is not supported.
 222.167.166.155,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27771,114.16872,Field 'timezone' is not supported.
-222.237.249.172,KR,KOR,South Korea,,,,Seoul,100-095,37.5566,126.97595,Field 'timezone' is not supported.
+222.237.249.172,KR,KOR,South Korea,,,,Seoul,100-095,37.55660,126.97595,Field 'timezone' is not supported.
 222.252.156.61,VN,VNM,Vietnam,,,,Quận Đống Đa,11513,21.01931,105.80925,Field 'timezone' is not supported.
 222.252.42.188,VN,VNM,Vietnam,,,,Quận Hoàn Kiếm,11022,21.02729,105.85363,Field 'timezone' is not supported.
 222.253.41.252,VN,VNM,Vietnam,,,,Quận Bình Thạnh,72308,10.80755,106.71153,Field 'timezone' is not supported.
-223.207.101.95,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-223.207.97.248,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
-23.143.160.18,PR,PRI,Puerto Rico,,,,Ponce,717,17.99723,-66.62083,Field 'timezone' is not supported.
+223.207.101.95,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+223.207.97.248,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
+23.143.160.18,PR,PRI,Puerto Rico,,,,Ponce,00717,17.99723,-66.62083,Field 'timezone' is not supported.
 23.227.38.123,CA,CAN,Canada,Ontario,CA-ON,,Ottawa,K2P 2L8,45.41898,-75.69651,Field 'timezone' is not supported.
 23.227.38.126,CA,CAN,Canada,Ontario,CA-ON,,Ottawa,K2P 2L8,45.41898,-75.69651,Field 'timezone' is not supported.
 23.227.38.148,CA,CAN,Canada,Ontario,CA-ON,,Ottawa,K2P 2L8,45.41898,-75.69651,Field 'timezone' is not supported.
@@ -1195,10 +1195,10 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 23.227.38.57,CA,CAN,Canada,Ontario,CA-ON,,Ottawa,K2P 2L8,45.41898,-75.69651,Field 'timezone' is not supported.
 23.227.39.76,CA,CAN,Canada,Ontario,CA-ON,,Ottawa,K2P 2L8,45.41898,-75.69651,Field 'timezone' is not supported.
 23.26.236.11,US,USA,United States,Texas,US-TX,,Dallas,75204-3500,32.79939,-96.79523,Field 'timezone' is not supported.
-24.158.29.166,US,USA,United States,Colorado,US-CO,,Greenwood Village,80111-5103,39.60396,-104.887,Field 'timezone' is not supported.
+24.158.29.166,US,USA,United States,Colorado,US-CO,,Greenwood Village,80111-5103,39.60396,-104.88700,Field 'timezone' is not supported.
 24.249.199.12,US,USA,United States,Georgia,US-GA,,Atlanta,30319-1418,33.91396,-84.34648,Field 'timezone' is not supported.
 24.249.199.4,US,USA,United States,Georgia,US-GA,,Atlanta,30319-1418,33.91396,-84.34648,Field 'timezone' is not supported.
-24.95.253.39,US,USA,United States,Colorado,US-CO,,Greenwood Village,80111-5103,39.60396,-104.887,Field 'timezone' is not supported.
+24.95.253.39,US,USA,United States,Colorado,US-CO,,Greenwood Village,80111-5103,39.60396,-104.88700,Field 'timezone' is not supported.
 27.159.66.41,CN,CHN,China,Fujian,CN-FJ,,Xiamen,,24.48461,118.03289,Field 'timezone' is not supported.
 27.42.168.46,CN,CHN,China,Guangdong,CN-GD,,Zhongshan,,22.52111,113.38239,Field 'timezone' is not supported.
 27.79.133.90,VN,VNM,Vietnam,Hà Nội,VN-HN,,,,21.00346,105.77033,Field 'timezone' is not supported.
@@ -1214,26 +1214,26 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 31.13.33.20,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,117535,55.60405,37.60795,Field 'timezone' is not supported.
 31.186.239.246,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,,52.37018,4.87326,Field 'timezone' is not supported.
 31.192.233.163,US,USA,United States,Georgia,US-GA,,Atlanta,30303,33.74831,-84.39111,Field 'timezone' is not supported.
-31.43.179.106,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.11,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.137,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.14,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.211,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.237,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.240,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.30,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-31.43.179.43,KZ,KAZ,Kazakhstan,,,,Almaty,50062,43.23438,76.85544,Field 'timezone' is not supported.
-34.171.218.65,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.4224,-122.08421,Field 'timezone' is not supported.
+31.43.179.106,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.11,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.137,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.14,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.211,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.237,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.240,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.30,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+31.43.179.43,KZ,KAZ,Kazakhstan,,,,Almaty,050062,43.23438,76.85544,Field 'timezone' is not supported.
+34.171.218.65,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.42240,-122.08421,Field 'timezone' is not supported.
 35.178.238.246,GB,GBR,United Kingdom,England,GB-ENG,,London,SW1A 2,51.50643,-0.12719,Field 'timezone' is not supported.
-35.232.251.108,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.4224,-122.08421,Field 'timezone' is not supported.
-35.233.222.38,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.4224,-122.08421,Field 'timezone' is not supported.
+35.232.251.108,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.42240,-122.08421,Field 'timezone' is not supported.
+35.233.222.38,US,USA,United States,California,US-CA,,Mountain View,94043-1351,37.42240,-122.08421,Field 'timezone' is not supported.
 36.37.81.135,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10340,-6.18567,106.82301,Field 'timezone' is not supported.
 36.66.171.243,ID,IDN,Indonesia,,,,Banjarnegara,53417,-7.39978,109.68112,Field 'timezone' is not supported.
 36.66.235.83,ID,IDN,Indonesia,,,,Banjar,70615,-3.38866,114.88009,Field 'timezone' is not supported.
 36.67.197.53,ID,IDN,Indonesia,,,,Parepare,91122,-4.03409,119.62605,Field 'timezone' is not supported.
 36.67.45.71,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
 36.89.252.90,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
-36.90.20.176,ID,IDN,Indonesia,,,,Labuhanbatu Selatan,21511,1.8907,100.10497,Field 'timezone' is not supported.
+36.90.20.176,ID,IDN,Indonesia,,,,Labuhanbatu Selatan,21511,1.89070,100.10497,Field 'timezone' is not supported.
 36.91.173.11,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
 36.91.45.10,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
 36.91.68.148,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
@@ -1241,19 +1241,19 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 36.93.189.147,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
 36.94.35.225,SG,SGP,Singapore,,,,Singapore,17,1.29041,103.85211,Field 'timezone' is not supported.
 36.95.17.93,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Jakarta,10110,-6.17148,106.82649,Field 'timezone' is not supported.
-36.95.27.209,ID,IDN,Indonesia,,,,Mataram,83134,-8.59485,116.1054,Field 'timezone' is not supported.
+36.95.27.209,ID,IDN,Indonesia,,,,Mataram,83134,-8.59485,116.10540,Field 'timezone' is not supported.
 37.112.211.234,RU,RUS,Russia,Volga Federal District,RU-VOL,,Samara,443041,53.19032,50.11847,Field 'timezone' is not supported.
 37.144.9.243,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,111250,55.75612,37.70232,Field 'timezone' is not supported.
-37.35.41.58,IT,ITA,Italy,Lombardy,IT-25,,Milan,20153,45.478,9.10188,Field 'timezone' is not supported.
-37.35.42.196,IT,ITA,Italy,Lombardy,IT-25,,Milan,20153,45.478,9.10188,Field 'timezone' is not supported.
-37.44.244.35,SG,SGP,Singapore,,,,Singapore,1,1.27857,103.85762,Field 'timezone' is not supported.
+37.35.41.58,IT,ITA,Italy,Lombardy,IT-25,,Milan,20153,45.47800,9.10188,Field 'timezone' is not supported.
+37.35.42.196,IT,ITA,Italy,Lombardy,IT-25,,Milan,20153,45.47800,9.10188,Field 'timezone' is not supported.
+37.44.244.35,SG,SGP,Singapore,,,,Singapore,01,1.27857,103.85762,Field 'timezone' is not supported.
 37.44.253.119,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,115114,55.71632,37.64475,Field 'timezone' is not supported.
 37.44.254.175,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,115114,55.71632,37.64475,Field 'timezone' is not supported.
-37.57.15.43,UA,UKR,Ukraine,,,,Kyiv,2000,50.4501,30.5234,Field 'timezone' is not supported.
+37.57.15.43,UA,UKR,Ukraine,,,,Kyiv,02000,50.45010,30.52340,Field 'timezone' is not supported.
 38.10.69.109,TR,TUR,Turkey,Konya,TR-42,,Konya,42080,37.88245,32.47154,Field 'timezone' is not supported.
-38.123.207.247,MX,MEX,Mexico,Mexico City,MX-CMX,,Azcapotzalco,2300,19.48664,-99.15711,Field 'timezone' is not supported.
+38.123.207.247,MX,MEX,Mexico,Mexico City,MX-CMX,,Azcapotzalco,02300,19.48664,-99.15711,Field 'timezone' is not supported.
 38.15.85.32,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H4L 5E9,45.51112,-73.68602,Field 'timezone' is not supported.
-38.41.0.92,VE,VEN,Venezuela,Miranda,VE-M,,Caracas,,10.49584,-66.8281,Field 'timezone' is not supported.
+38.41.0.92,VE,VEN,Venezuela,Miranda,VE-M,,Caracas,,10.49584,-66.82810,Field 'timezone' is not supported.
 38.7.16.188,MX,MEX,Mexico,Michoacan,MX-MIC,,Morelia,58000,19.69974,-101.19187,Field 'timezone' is not supported.
 39.106.22.3,CN,CHN,China,Beijing,CN-BJ,,Beijing,,39.90499,116.40529,Field 'timezone' is not supported.
 40.113.131.241,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,,52.37018,4.87324,Field 'timezone' is not supported.
@@ -1264,33 +1264,33 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 40.67.252.70,IE,IRL,Ireland,,,,Dublin,1,53.34807,-6.24827,Field 'timezone' is not supported.
 41.162.52.11,ZA,ZAF,South Africa,Gauteng,ZA-GP,,,,-26.20491,28.04006,Field 'timezone' is not supported.
 41.178.6.146,EG,EGY,Egypt,Giza Governorate,EG-GZ,,Ad Doqi,,30.04075,31.20937,Field 'timezone' is not supported.
-41.203.83.66,NG,NGA,Nigeria,Lagos,NG-LA,,Lagos,,6.4547,3.38876,Field 'timezone' is not supported.
-41.33.219.141,EG,EGY,Egypt,,,,El Dokki,,30.03808,31.2093,Field 'timezone' is not supported.
-41.33.47.146,EG,EGY,Egypt,,,,El Dokki,,30.03808,31.2093,Field 'timezone' is not supported.
+41.203.83.66,NG,NGA,Nigeria,Lagos,NG-LA,,Lagos,,6.45470,3.38876,Field 'timezone' is not supported.
+41.33.219.141,EG,EGY,Egypt,,,,El Dokki,,30.03808,31.20930,Field 'timezone' is not supported.
+41.33.47.146,EG,EGY,Egypt,,,,El Dokki,,30.03808,31.20930,Field 'timezone' is not supported.
 41.60.216.176,MZ,MOZ,Mozambique,Maputo City,MZ-MPM,,Maputo,1100,-25.97456,32.57327,Field 'timezone' is not supported.
 41.65.236.43,EG,EGY,Egypt,,,,Imbaba,,30.08419,31.20585,Field 'timezone' is not supported.
 41.65.236.58,EG,EGY,Egypt,,,,Imbaba,,30.08419,31.20585,Field 'timezone' is not supported.
-41.65.55.2,EG,EGY,Egypt,Giza Governorate,EG-GZ,,,12577,30.44953,30.3175,Field 'timezone' is not supported.
+41.65.55.2,EG,EGY,Egypt,Giza Governorate,EG-GZ,,,12577,30.44953,30.31750,Field 'timezone' is not supported.
 41.77.13.186,MW,MWI,Malawi,,,,Lilongwe,,-13.96156,33.79263,Field 'timezone' is not supported.
 42.96.47.158,VN,VNM,Vietnam,,,,,,21.02888,105.85464,Field 'timezone' is not supported.
-43.132.148.107,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-43.154.125.209,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-43.154.71.147,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-43.155.69.95,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
+43.132.148.107,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+43.154.125.209,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+43.154.71.147,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+43.155.69.95,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
 43.250.107.91,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Kowloon,,22.31585,114.17197,Field 'timezone' is not supported.
 45.114.36.137,IN,IND,India,Delhi,IN-DL,,New Delhi,110001,28.62807,77.22212,Field 'timezone' is not supported.
 45.162.75.194,EC,ECU,Ecuador,Pichincha,EC-P,,Quito,170521,-0.20567,-78.50887,Field 'timezone' is not supported.
 45.165.131.46,BR,BRA,Brazil,Distrito Federal,BR-DF,,Brasilia,,-15.77829,-47.92909,Field 'timezone' is not supported.
 45.168.12.49,BR,BRA,Brazil,Pernambuco,BR-PE,,Taquaritinga do Norte,55790-000,-7.90268,-36.04626,Field 'timezone' is not supported.
 45.169.136.183,BR,BRA,Brazil,Sao Paulo,BR-SP,,Sarapuí,18225-000,-23.64107,-47.82771,Field 'timezone' is not supported.
-45.192.146.168,IT,ITA,Italy,Latium,IT-62,,Rome,185,41.90322,12.49565,Field 'timezone' is not supported.
-45.192.146.173,IT,ITA,Italy,Latium,IT-62,,Rome,185,41.90322,12.49565,Field 'timezone' is not supported.
+45.192.146.168,IT,ITA,Italy,Latium,IT-62,,Rome,00185,41.90322,12.49565,Field 'timezone' is not supported.
+45.192.146.173,IT,ITA,Italy,Latium,IT-62,,Rome,00185,41.90322,12.49565,Field 'timezone' is not supported.
 45.192.152.81,HU,HUN,Hungary,Budapest,HU-BU,,Budapest,1061,47.49972,19.05508,Field 'timezone' is not supported.
-45.192.157.21,ZA,ZAF,South Africa,Gauteng,ZA-GP,,Pretoria,2,-25.74587,28.18764,Field 'timezone' is not supported.
+45.192.157.21,ZA,ZAF,South Africa,Gauteng,ZA-GP,,Pretoria,0002,-25.74587,28.18764,Field 'timezone' is not supported.
 45.225.106.106,EC,ECU,Ecuador,Guayas,EC-G,,Guayaquil,,-2.14677,-79.91261,Field 'timezone' is not supported.
-45.226.1.1,BR,BRA,Brazil,Goias,BR-GO,,Anápolis,75083-180,-16.3031,-48.94431,Field 'timezone' is not supported.
-45.228.235.26,GT,GTM,Guatemala,,,,Guatemala,1017,14.63325,-90.4671,Field 'timezone' is not supported.
-45.229.205.28,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1227,-34.61963,-58.3994,Field 'timezone' is not supported.
+45.226.1.1,BR,BRA,Brazil,Goias,BR-GO,,Anápolis,75083-180,-16.30310,-48.94431,Field 'timezone' is not supported.
+45.228.235.26,GT,GTM,Guatemala,,,,Guatemala,01017,14.63325,-90.46710,Field 'timezone' is not supported.
+45.229.205.28,AR,ARG,Argentina,Buenos Aires Autonomous City,AR-C,,Buenos Aires City,1227,-34.61963,-58.39940,Field 'timezone' is not supported.
 45.233.67.203,GT,GTM,Guatemala,,,,Jalapa,21001,14.64433,-90.00012,Field 'timezone' is not supported.
 45.233.67.208,GT,GTM,Guatemala,,,,Jalapa,21001,14.64433,-90.00012,Field 'timezone' is not supported.
 45.233.67.209,GT,GTM,Guatemala,,,,Jalapa,21001,14.64433,-90.00012,Field 'timezone' is not supported.
@@ -1298,36 +1298,36 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 45.32.101.24,SG,SGP,Singapore,,,,Singapore,627753,1.32127,103.69564,Field 'timezone' is not supported.
 45.5.145.164,BR,BRA,Brazil,Rio Grande do Norte,BR-RN,,Patu,59770-000,-6.10551,-37.63692,Field 'timezone' is not supported.
 45.56.75.90,US,USA,United States,Texas,US-TX,,Richardson,75080,32.96074,-96.73297,Field 'timezone' is not supported.
-45.56.98.229,US,USA,United States,New Jersey,US-NJ,,Cedar Knolls,7927,40.80849,-74.46444,Field 'timezone' is not supported.
+45.56.98.229,US,USA,United States,New Jersey,US-NJ,,Cedar Knolls,07927,40.80849,-74.46444,Field 'timezone' is not supported.
 45.57.168.193,US,USA,United States,Washington,US-WA,,Seattle,98108,47.55379,-122.30346,Field 'timezone' is not supported.
 45.57.225.10,US,USA,United States,Washington,US-WA,,Seattle,98108,47.55379,-122.30346,Field 'timezone' is not supported.
 45.57.255.215,US,USA,United States,Washington,US-WA,,Seattle,98108,47.55379,-122.30346,Field 'timezone' is not supported.
 45.70.15.2,EC,ECU,Ecuador,Guayas,EC-G,,Guayaquil,,-2.14677,-79.91261,Field 'timezone' is not supported.
 45.71.198.209,AR,ARG,Argentina,Misiones,PY-8,,San Vicente,3364,-26.99929,-54.47801,Field 'timezone' is not supported.
-45.77.107.115,US,USA,United States,New Jersey,US-NJ,,Piscataway,8854,40.53865,-74.47168,Field 'timezone' is not supported.
+45.77.107.115,US,USA,United States,New Jersey,US-NJ,,Piscataway,08854,40.53865,-74.47168,Field 'timezone' is not supported.
 45.77.56.114,GB,GBR,United Kingdom,England,GB-ENG,,London,E1 6QR,51.52026,-0.07313,Field 'timezone' is not supported.
-45.79.90.143,US,USA,United States,California,US-CA,,Fremont,94538,37.55148,-121.9833,Field 'timezone' is not supported.
+45.79.90.143,US,USA,United States,California,US-CA,,Fremont,94538,37.55148,-121.98330,Field 'timezone' is not supported.
 46.101.126.180,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 46.101.13.77,GB,GBR,United Kingdom,England,GB-ENG,,London,SW1A 2,51.50643,-0.12719,Field 'timezone' is not supported.
 46.101.179.133,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 46.101.195.163,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 46.229.215.224,RU,RUS,Russia,Northwestern Federal District,VE-MN,,Saint Petersburg,199162,59.93319,30.30609,Field 'timezone' is not supported.
 46.246.6.9,SE,SWE,Sweden,Stockholm County,SE-AB,,Stockholm,,59.33257,18.06683,Field 'timezone' is not supported.
-46.29.76.71,RU,RUS,Russia,Volga Federal District,RU-VOL,,Samara,443070,53.1914,50.1877,Field 'timezone' is not supported.
-46.4.96.137,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,8223,50.47914,12.33547,Field 'timezone' is not supported.
+46.29.76.71,RU,RUS,Russia,Volga Federal District,RU-VOL,,Samara,443070,53.19140,50.18770,Field 'timezone' is not supported.
+46.4.96.137,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,08223,50.47914,12.33547,Field 'timezone' is not supported.
 46.55.161.113,BG,BGR,Bulgaria,,,,Plovdiv,4000,42.13586,24.74905,Field 'timezone' is not supported.
-47.241.165.133,SG,SGP,Singapore,,,,Singapore,48616,1.28434,103.85098,Field 'timezone' is not supported.
-47.241.189.54,SG,SGP,Singapore,,,,Singapore,48616,1.28434,103.85098,Field 'timezone' is not supported.
-47.242.202.128,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.242.235.25,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.242.254.88,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.242.40.222,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.243.138.208,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.2783,114.16039,Field 'timezone' is not supported.
-47.243.167.134,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.243.31.48,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.243.55.21,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.243.87.119,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.251.12.73,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
+47.241.165.133,SG,SGP,Singapore,,,,Singapore,048616,1.28434,103.85098,Field 'timezone' is not supported.
+47.241.189.54,SG,SGP,Singapore,,,,Singapore,048616,1.28434,103.85098,Field 'timezone' is not supported.
+47.242.202.128,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.242.235.25,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.242.254.88,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.242.40.222,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.243.138.208,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.27830,114.16039,Field 'timezone' is not supported.
+47.243.167.134,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.243.31.48,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.243.55.21,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.243.87.119,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.251.12.73,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
 47.254.153.200,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60325,50.11288,8.66219,Field 'timezone' is not supported.
 47.254.247.192,MY,MYS,Malaysia,Wilayah Persekutuan,MY-15,,Kuala Lumpur,50450,3.16148,101.71182,Field 'timezone' is not supported.
 47.254.247.233,MY,MYS,Malaysia,Wilayah Persekutuan,MY-15,,Kuala Lumpur,50450,3.16148,101.71182,Field 'timezone' is not supported.
@@ -1335,13 +1335,13 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 47.56.69.11,CN,CHN,China,,,,Beijing,,39.90657,116.38765,Field 'timezone' is not supported.
 47.57.234.145,CN,CHN,China,,,,Beijing,,39.90657,116.38765,Field 'timezone' is not supported.
 47.57.7.183,CN,CHN,China,,,,Beijing,,39.90657,116.38765,Field 'timezone' is not supported.
-47.74.152.29,SG,SGP,Singapore,,,,Singapore,48616,1.28434,103.85098,Field 'timezone' is not supported.
+47.74.152.29,SG,SGP,Singapore,,,,Singapore,048616,1.28434,103.85098,Field 'timezone' is not supported.
 47.74.66.7,AU,AUS,Australia,Victoria,MT-45,,Melbourne,3000,-37.81733,144.96097,Field 'timezone' is not supported.
-47.88.50.230,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.88.6.186,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.88.6.66,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.88.8.118,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
-47.89.153.213,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.3252,Field 'timezone' is not supported.
+47.88.50.230,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.88.6.186,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.88.6.66,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.88.8.118,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
+47.89.153.213,US,USA,United States,California,US-CA,,San Mateo,94402-1700,37.56188,-122.32520,Field 'timezone' is not supported.
 47.91.107.251,AE,ARE,United Arab Emirates,,,,Dubai,,25.18823,55.25784,Field 'timezone' is not supported.
 47.91.111.166,AE,ARE,United Arab Emirates,,,,Dubai,,25.18823,55.25784,Field 'timezone' is not supported.
 47.91.124.248,AE,ARE,United Arab Emirates,,,,Dubai,,25.18823,55.25784,Field 'timezone' is not supported.
@@ -1351,7 +1351,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 47.91.88.100,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60325,50.11288,8.66219,Field 'timezone' is not supported.
 49.0.2.242,ID,IDN,Indonesia,JABODETABEK,ID-JB,,Bogor Kabupaten,16967,-6.38784,106.94092,Field 'timezone' is not supported.
 49.174.224.140,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
-49.207.36.81,IN,IND,India,Telangana,IN-TG,,Hyderabad,500095,17.385,78.4867,Field 'timezone' is not supported.
+49.207.36.81,IN,IND,India,Telangana,IN-TG,,Hyderabad,500095,17.38500,78.48670,Field 'timezone' is not supported.
 49.254.108.21,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 49.254.11.9,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 49.254.110.49,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
@@ -1376,14 +1376,14 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 49.254.90.82,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 49.254.90.92,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
 49.254.90.98,KR,KOR,South Korea,,,,Seoul,,37.55886,126.99989,Field 'timezone' is not supported.
-49.49.193.184,TH,THA,Thailand,,,,Pak Kret,11120,13.9059,100.52083,Field 'timezone' is not supported.
+49.49.193.184,TH,THA,Thailand,,,,Pak Kret,11120,13.90590,100.52083,Field 'timezone' is not supported.
 5.189.224.84,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,125009,55.75696,37.61502,Field 'timezone' is not supported.
-5.189.63.14,RU,RUS,Russia,Sverdlovsk Oblast,RU-SVE,,Yekaterinburg,620027,56.8519,60.6122,Field 'timezone' is not supported.
+5.189.63.14,RU,RUS,Russia,Sverdlovsk Oblast,RU-SVE,,Yekaterinburg,620027,56.85190,60.61220,Field 'timezone' is not supported.
 5.199.171.227,QA,QAT,Qatar,,,,Doha,,25.25358,51.52382,Field 'timezone' is not supported.
 5.202.191.226,IR,IRN,Iran,Tehran Province,IR-23,,Tehran,,35.73373,51.40209,Field 'timezone' is not supported.
-5.58.110.249,UA,UKR,Ukraine,,,,Kiev,3115,50.4565,30.38524,Field 'timezone' is not supported.
+5.58.110.249,UA,UKR,Ukraine,,,,Kiev,03115,50.45650,30.38524,Field 'timezone' is not supported.
 5.78.52.141,US,USA,United States,California,US-CA,,Los Angeles,90012,34.05357,-118.24545,Field 'timezone' is not supported.
-5.9.108.107,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,8223,50.47914,12.33547,Field 'timezone' is not supported.
+5.9.108.107,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,08223,50.47914,12.33547,Field 'timezone' is not supported.
 50.16.33.219,US,USA,United States,Virginia,US-VA,,North,23128,37.45243,-76.41686,Field 'timezone' is not supported.
 50.169.135.10,US,USA,United States,New Jersey,US-NJ,,Mt Laurel,08054-4628,39.96657,-74.90327,Field 'timezone' is not supported.
 50.173.157.75,US,USA,United States,New Jersey,US-NJ,,Mt Laurel,08054-4628,39.96657,-74.90327,Field 'timezone' is not supported.
@@ -1451,19 +1451,19 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 50.237.89.161,US,USA,United States,New Jersey,US-NJ,,Mt Laurel,08054-4628,39.96657,-74.90327,Field 'timezone' is not supported.
 50.237.89.165,US,USA,United States,New Jersey,US-NJ,,Mt Laurel,08054-4628,39.96657,-74.90327,Field 'timezone' is not supported.
 50.237.89.170,US,USA,United States,New Jersey,US-NJ,,Mt Laurel,08054-4628,39.96657,-74.90327,Field 'timezone' is not supported.
-51.103.108.84,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.18.89,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.19.39,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.20.134,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.24.230,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.27.73,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.31.200,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.31.21,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.42.231,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.53.225,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.76.148,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.79.29,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
-51.103.84.201,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.3414,Field 'timezone' is not supported.
+51.103.108.84,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.18.89,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.19.39,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.20.134,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.24.230,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.27.73,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.31.200,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.31.21,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.42.231,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.53.225,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.76.148,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.79.29,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
+51.103.84.201,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75001,48.85717,2.34140,Field 'timezone' is not supported.
 51.104.48.100,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
 51.104.49.218,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
 51.104.50.22,GB,GBR,United Kingdom,Wales,GB-WLS,,Cardiff,CF10 1,51.48127,-3.18072,Field 'timezone' is not supported.
@@ -1475,7 +1475,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 51.159.4.98,FR,FRA,France,Ile-de-France,FR-IDF,,Paris,75008,48.87135,2.32115,Field 'timezone' is not supported.
 51.254.69.243,FR,FRA,France,Hauts-de-France,FR-HDF,,Roubaix,59100,50.69224,3.20003,Field 'timezone' is not supported.
 51.68.207.81,GB,GBR,United Kingdom,England,GB-ENG,,London,EC3R 7LP,51.51112,-0.07965,Field 'timezone' is not supported.
-51.79.50.22,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.5716,Field 'timezone' is not supported.
+51.79.50.22,CA,CAN,Canada,Quebec,CA-QC,,Montreal,H3A 2N4,45.50254,-73.57160,Field 'timezone' is not supported.
 52.168.34.113,US,USA,United States,Washington,US-WA,,,,47.03956,-122.89166,Field 'timezone' is not supported.
 54.153.124.39,US,USA,United States,California,US-CA,,San Pablo,94804,37.94284,-122.33667,Field 'timezone' is not supported.
 54.173.68.195,US,USA,United States,Virginia,US-VA,,North,23128,37.45243,-76.41686,Field 'timezone' is not supported.
@@ -1485,7 +1485,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 54.37.98.108,FR,FRA,France,Hauts-de-France,FR-HDF,,Roubaix,59100,50.69224,3.20003,Field 'timezone' is not supported.
 54.38.151.84,GB,GBR,United Kingdom,England,GB-ENG,,London,EC3R 7LP,51.51112,-0.07965,Field 'timezone' is not supported.
 58.176.147.14,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,Hong Kong,,22.28961,114.19499,Field 'timezone' is not supported.
-58.21.39.20,CN,CHN,China,Jilin,CN-JL,,Changchun,,43.88684,125.3245,Field 'timezone' is not supported.
+58.21.39.20,CN,CHN,China,Jilin,CN-JL,,Changchun,,43.88684,125.32450,Field 'timezone' is not supported.
 58.27.59.249,MY,MYS,Malaysia,Wilayah Persekutuan,MY-15,,Kuala Lumpur,59100,3.11616,101.66909,Field 'timezone' is not supported.
 58.8.143.240,TH,THA,Thailand,,,,Bangkok,10400,13.76048,100.55563,Field 'timezone' is not supported.
 59.23.126.146,KR,KOR,South Korea,,,,Seongnam,,37.41043,127.13716,Field 'timezone' is not supported.
@@ -1493,22 +1493,22 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 61.78.63.200,KR,KOR,South Korea,,,,Seongnam,,37.41043,127.13716,Field 'timezone' is not supported.
 62.171.160.215,DE,DEU,Germany,Bavaria,DE-BY,,Munich,81549,48.10425,11.60102,Field 'timezone' is not supported.
 62.193.68.92,EG,EGY,Egypt,,,,Imbaba,,30.08419,31.20585,Field 'timezone' is not supported.
-62.201.212.214,IQ,IRQ,Iraq,Kurdistan Region,IQ-KU,,Sulaymaniyah,,35.562,45.405,Field 'timezone' is not supported.
-62.32.92.124,KZ,KAZ,Kazakhstan,Almaty Province,KZ-ALM,,Almaty,50000,43.222,76.8512,Field 'timezone' is not supported.
+62.201.212.214,IQ,IRQ,Iraq,Kurdistan Region,IQ-KU,,Sulaymaniyah,,35.56200,45.40500,Field 'timezone' is not supported.
+62.32.92.124,KZ,KAZ,Kazakhstan,Almaty Province,KZ-ALM,,Almaty,050000,43.22200,76.85120,Field 'timezone' is not supported.
 62.33.235.49,RU,RUS,Russia,Central Federal District,RU-CEN,,Ivanovo,153000,56.99567,40.97882,Field 'timezone' is not supported.
 62.85.72.35,LV,LVA,Latvia,,,,Riga,1011,56.95151,24.12373,Field 'timezone' is not supported.
 64.224.255.173,US,USA,United States,New York,US-NY,,Rochester,14623-2827,43.09755,-77.58744,Field 'timezone' is not supported.
 64.225.104.77,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
-64.225.8.192,US,USA,United States,New Jersey,US-NJ,,Clifton,7014,40.83197,-74.13139,Field 'timezone' is not supported.
-64.227.23.88,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
-64.227.6.0,US,USA,United States,New Jersey,US-NJ,,North Bergen,7047,40.79301,-74.02038,Field 'timezone' is not supported.
+64.225.8.192,US,USA,United States,New Jersey,US-NJ,,Clifton,07014,40.83197,-74.13139,Field 'timezone' is not supported.
+64.227.23.88,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
+64.227.6.0,US,USA,United States,New Jersey,US-NJ,,North Bergen,07047,40.79301,-74.02038,Field 'timezone' is not supported.
 64.56.218.185,US,USA,United States,Mississippi,US-MS,,Greenwood,38930-7142,33.50991,-90.07993,Field 'timezone' is not supported.
 64.94.212.134,US,USA,United States,Delaware,US-DE,,Hockessin,19707,39.78725,-75.69099,Field 'timezone' is not supported.
-65.108.230.239,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,100,60.17116,24.93265,Field 'timezone' is not supported.
-65.108.232.45,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,100,60.17116,24.93265,Field 'timezone' is not supported.
-65.21.141.242,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,100,60.17116,24.93265,Field 'timezone' is not supported.
+65.108.230.239,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,00100,60.17116,24.93265,Field 'timezone' is not supported.
+65.108.232.45,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,00100,60.17116,24.93265,Field 'timezone' is not supported.
+65.21.141.242,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,00100,60.17116,24.93265,Field 'timezone' is not supported.
 65.37.106.2,US,USA,United States,New York,US-NY,,Rochester,14646-0001,43.15348,-77.60442,Field 'timezone' is not supported.
-66.181.164.125,MN,MNG,Mongolia,,,,Ulaanbaatar,,47.92218,106.9181,Field 'timezone' is not supported.
+66.181.164.125,MN,MNG,Mongolia,,,,Ulaanbaatar,,47.92218,106.91810,Field 'timezone' is not supported.
 66.29.154.103,US,USA,United States,California,US-CA,,Los Angeles,90064-1507,34.03666,-118.44346,Field 'timezone' is not supported.
 66.29.154.105,US,USA,United States,California,US-CA,,Los Angeles,90064-1507,34.03666,-118.44346,Field 'timezone' is not supported.
 66.94.108.138,US,USA,United States,Missouri,US-MO,,St Louis,63101-1150,38.63273,-90.19624,Field 'timezone' is not supported.
@@ -1518,11 +1518,11 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 70.166.167.38,US,USA,United States,Georgia,US-GA,,Atlanta,30319-1418,33.91396,-84.34648,Field 'timezone' is not supported.
 72.169.65.25,US,USA,United States,Maryland,US-MD,,Germantown,20876-2711,39.17915,-77.24656,Field 'timezone' is not supported.
 72.195.114.169,US,USA,United States,California,US-CA,,Irvine,,33.68457,-117.82651,Field 'timezone' is not supported.
-72.206.181.103,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
-72.206.181.97,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
-72.210.208.101,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
-72.210.221.223,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
-72.217.216.239,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.0758,Field 'timezone' is not supported.
+72.206.181.103,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
+72.206.181.97,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
+72.210.208.101,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
+72.210.221.223,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
+72.217.216.239,US,USA,United States,Arizona,US-AZ,,Phoenix,85003,33.44825,-112.07580,Field 'timezone' is not supported.
 72.221.164.34,US,USA,United States,California,US-CA,,San Diego,92101,32.71568,-117.16171,Field 'timezone' is not supported.
 72.221.232.152,US,USA,United States,California,US-CA,,San Diego,92101,32.71568,-117.16171,Field 'timezone' is not supported.
 72.49.49.11,US,USA,United States,Ohio,US-OH,,Cincinnati,45202-2308,39.10291,-84.51799,Field 'timezone' is not supported.
@@ -1532,15 +1532,15 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 77.220.194.58,FR,FRA,France,Île-de-France,FR-IDF,,Paris,75004,48.85661,2.35222,Field 'timezone' is not supported.
 77.238.79.111,BG,BGR,Bulgaria,,,,Sofia,1330,42.69563,23.28512,Field 'timezone' is not supported.
 77.39.127.61,RU,RUS,Russia,Stavropol Krai,RU-STA,,Stavropol,355000,45.03423,42.03006,Field 'timezone' is not supported.
-77.81.30.250,RO,ROU,Romania,,,,Bucharest,14104,44.48011,26.08655,Field 'timezone' is not supported.
+77.81.30.250,RO,ROU,Romania,,,,Bucharest,014104,44.48011,26.08655,Field 'timezone' is not supported.
 77.83.85.30,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124489,55.98077,37.24943,Field 'timezone' is not supported.
 77.83.86.205,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124489,55.98077,37.24943,Field 'timezone' is not supported.
 77.83.86.85,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124489,55.98077,37.24943,Field 'timezone' is not supported.
 77.83.87.139,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124489,55.98077,37.24943,Field 'timezone' is not supported.
 77.83.87.244,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124489,55.98077,37.24943,Field 'timezone' is not supported.
 77.83.87.91,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124489,55.98077,37.24943,Field 'timezone' is not supported.
-78.47.68.183,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,8223,50.47914,12.33547,Field 'timezone' is not supported.
-79.141.162.141,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.4827,Field 'timezone' is not supported.
+78.47.68.183,DE,DEU,Germany,Saxony,DE-SN,,Falkenstein/Vogtl.,08223,50.47914,12.33547,Field 'timezone' is not supported.
+79.141.162.141,US,USA,United States,Virginia,US-VA,,Ashburn,20147,39.05232,-77.48270,Field 'timezone' is not supported.
 8.142.149.186,CN,CHN,China,Beijing,CN-BJ,,Beijing,,39.90499,116.40529,Field 'timezone' is not supported.
 8.210.149.174,SG,SGP,Singapore,,,,Singapore,159410,1.28569,103.80965,Field 'timezone' is not supported.
 8.211.20.219,SG,SGP,Singapore,,,,Singapore,159410,1.28569,103.80965,Field 'timezone' is not supported.
@@ -1557,19 +1557,19 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 81.12.44.197,IR,IRN,Iran,Tehran Province,IR-23,,Tehran,,35.74709,51.41147,Field 'timezone' is not supported.
 81.171.24.199,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1101 CX,52.30483,4.94521,Field 'timezone' is not supported.
 81.200.123.74,RU,RUS,Russia,Saint Petersburg,RU-SPE,,Saint Petersburg,191186,59.94888,30.31725,Field 'timezone' is not supported.
-81.255.13.197,FR,FRA,France,Occitanie,FR-OCC,,Blagnac,31700,43.63519,1.3761,Field 'timezone' is not supported.
+81.255.13.197,FR,FRA,France,Occitanie,FR-OCC,,Blagnac,31700,43.63519,1.37610,Field 'timezone' is not supported.
 81.91.137.42,IR,IRN,Iran,Tehran Province,IR-23,,Tehran,15568 35311,35.74072,51.44281,Field 'timezone' is not supported.
 82.114.90.109,AL,ALB,Albania,Tirana,AL-11,,Tirana,1010,41.32232,19.82517,Field 'timezone' is not supported.
 82.114.99.202,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124527,55.75696,37.61502,Field 'timezone' is not supported.
 82.117.252.100,US,USA,United States,Florida,UY-FD,,Miami,33128,25.77481,-80.19773,Field 'timezone' is not supported.
 82.147.118.164,RU,RUS,Russia,Volga Federal District,RU-VOL,,Perm,614066,57.99003,56.20575,Field 'timezone' is not supported.
 82.196.11.105,NL,NLD,Netherlands,North Holland,NL-NH,,Amsterdam,1105 AT,52.29572,4.94431,Field 'timezone' is not supported.
-82.200.150.194,KZ,KAZ,Kazakhstan,,,,Almaty,50009,43.25066,76.88814,Field 'timezone' is not supported.
-82.200.215.136,KZ,KAZ,Kazakhstan,,,,Almaty,50000,43.25198,76.94475,Field 'timezone' is not supported.
-82.210.8.173,FR,FRA,France,Ile-de-France,FR-IDF,,Champs-sur-Marne,77420,48.8353,2.58825,Field 'timezone' is not supported.
-82.77.129.205,RO,ROU,Romania,,,,Bucharest,50557,44.43008,26.07876,Field 'timezone' is not supported.
+82.200.150.194,KZ,KAZ,Kazakhstan,,,,Almaty,050009,43.25066,76.88814,Field 'timezone' is not supported.
+82.200.215.136,KZ,KAZ,Kazakhstan,,,,Almaty,050000,43.25198,76.94475,Field 'timezone' is not supported.
+82.210.8.173,FR,FRA,France,Ile-de-France,FR-IDF,,Champs-sur-Marne,77420,48.83530,2.58825,Field 'timezone' is not supported.
+82.77.129.205,RO,ROU,Romania,,,,Bucharest,050557,44.43008,26.07876,Field 'timezone' is not supported.
 83.142.52.39,GB,GBR,United Kingdom,England,GB-ENG,,London,SE1 3RA,51.50735,-0.12776,Field 'timezone' is not supported.
-83.171.226.96,PL,POL,Poland,Woj. Mazowieckie,PL-MZ,,Warsaw,00-002,52.2356,21.01037,Field 'timezone' is not supported.
+83.171.226.96,PL,POL,Poland,Woj. Mazowieckie,PL-MZ,,Warsaw,00-002,52.23560,21.01037,Field 'timezone' is not supported.
 83.171.252.170,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,119049,55.72549,37.61456,Field 'timezone' is not supported.
 83.171.255.35,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,119049,55.72549,37.61456,Field 'timezone' is not supported.
 83.218.186.22,AT,AUT,Austria,Tyrol,AT-7,,Landeck,6500,47.14057,10.56114,Field 'timezone' is not supported.
@@ -1583,7 +1583,7 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 85.239.36.198,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 85.239.36.43,DE,DEU,Germany,Hesse,DE-HE,,Frankfurt,60311,50.11208,8.68341,Field 'timezone' is not supported.
 85.25.91.141,DE,DEU,Germany,North-Rhine-Westphalia,DE-NW,,Cologne,50672,50.94277,6.93432,Field 'timezone' is not supported.
-86.133.173.60,GB,GBR,United Kingdom,England,GB-ENG,,Birmingham,B5 6,52.47387,-1.8922,Field 'timezone' is not supported.
+86.133.173.60,GB,GBR,United Kingdom,England,GB-ENG,,Birmingham,B5 6,52.47387,-1.89220,Field 'timezone' is not supported.
 86.57.219.210,BY,BLR,Belarus,Minsk,BY-MI,,Minsk,220088,53.89971,27.58586,Field 'timezone' is not supported.
 87.254.207.67,CN,CHN,China,Beijing,CN-BJ,,Beijing,,39.90499,116.40529,Field 'timezone' is not supported.
 87.255.8.58,RU,RUS,Russia,Central Federal District,RU-CEN,,Khimki,141400,55.88968,37.44485,Field 'timezone' is not supported.
@@ -1597,10 +1597,10 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 88.255.217.6,TR,TUR,Turkey,Hatay,TR-31,,Altınözü,31750,35.99725,36.26724,Field 'timezone' is not supported.
 88.255.64.94,TR,TUR,Turkey,Gaziantep,TR-27,,Karkamış,27880,36.83252,37.99859,Field 'timezone' is not supported.
 89.107.197.165,RU,RUS,Russia,Central Federal District,RU-CEN,,Tula,300041,54.19417,37.60566,Field 'timezone' is not supported.
-89.111.104.2,CZ,CZE,Czech Republic,Pardubický kraj,CZ-53,,Letohrad,561 51,50.0372,16.50757,Field 'timezone' is not supported.
+89.111.104.2,CZ,CZE,Czech Republic,Pardubický kraj,CZ-53,,Letohrad,561 51,50.03720,16.50757,Field 'timezone' is not supported.
 89.191.229.146,RU,RUS,Russia,Northwestern Federal District,VE-MN,,Saint Petersburg,199162,59.93319,30.30609,Field 'timezone' is not supported.
 89.191.229.231,RU,RUS,Russia,Northwestern Federal District,VE-MN,,Saint Petersburg,199162,59.93319,30.30609,Field 'timezone' is not supported.
-90.112.136.91,FR,FRA,France,Ile-de-France,FR-IDF,,Issy-les-Moulineaux,92130,48.8313,2.2665,Field 'timezone' is not supported.
+90.112.136.91,FR,FRA,France,Ile-de-France,FR-IDF,,Issy-les-Moulineaux,92130,48.83130,2.26650,Field 'timezone' is not supported.
 91.106.65.107,IR,IRN,Iran,Khuzestan Province,IR-06,,Sarbandar,63561 68966,30.55387,49.05414,Field 'timezone' is not supported.
 91.121.175.124,FR,FRA,France,Hauts-de-France,FR-HDF,,Roubaix,59100,50.69224,3.20003,Field 'timezone' is not supported.
 91.121.210.56,FR,FRA,France,Hauts-de-France,FR-HDF,,Roubaix,59100,50.69224,3.20003,Field 'timezone' is not supported.
@@ -1618,45 +1618,45 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 91.226.97.26,IT,ITA,Italy,Lombardy,IT-25,,Milan,20121,45.46796,9.18178,Field 'timezone' is not supported.
 91.226.97.62,IT,ITA,Italy,Lombardy,IT-25,,Milan,20121,45.46796,9.18178,Field 'timezone' is not supported.
 91.226.97.76,IT,ITA,Italy,Lombardy,IT-25,,Milan,20121,45.46796,9.18178,Field 'timezone' is not supported.
-91.232.241.114,UA,UKR,Ukraine,,,,Lviv,79060,49.8054,23.98911,Field 'timezone' is not supported.
+91.232.241.114,UA,UKR,Ukraine,,,,Lviv,79060,49.80540,23.98911,Field 'timezone' is not supported.
 91.235.75.33,RU,RUS,Russia,Ural Federal District,RU-UFO,,Chelyabinsk,454091,55.14149,61.41182,Field 'timezone' is not supported.
 91.242.228.226,US,USA,United States,Wyoming,US-WY,,Sheridan,82801-6317,44.79772,-106.95491,Field 'timezone' is not supported.
 91.242.228.249,US,USA,United States,Wyoming,US-WY,,Sheridan,82801-6317,44.79772,-106.95491,Field 'timezone' is not supported.
 92.242.254.24,HR,HRV,Croatia,Međimurje County,HR-20,,Šenkovec,40000,46.41037,16.41261,Field 'timezone' is not supported.
-93.120.32.13,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.134,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.154,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.172,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.18,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.223,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.252,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.29,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
-93.120.32.73,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67,12.56,Field 'timezone' is not supported.
+93.120.32.13,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.134,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.154,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.172,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.18,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.223,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.252,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.29,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
+93.120.32.73,DK,DNK,Denmark,Capital Region of Denmark,DK-84,,Copenhagen,1700,55.67000,12.56000,Field 'timezone' is not supported.
 93.171.164.251,RU,RUS,Russia,Central Federal District,RU-CEN,,Livny,303850,52.42242,37.60171,Field 'timezone' is not supported.
 93.174.242.68,RU,RUS,Russia,Northwestern Federal District,VE-MN,,Saint Petersburg,195112,59.93643,30.41417,Field 'timezone' is not supported.
-93.177.116.101,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
-93.177.116.167,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
-93.177.116.183,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
-93.177.117.144,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
-93.177.117.175,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
-93.177.117.244,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
-93.177.117.61,US,USA,United States,New Jersey,US-NJ,,Newark,7102,40.73566,-74.17237,Field 'timezone' is not supported.
+93.177.116.101,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
+93.177.116.167,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
+93.177.116.183,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
+93.177.117.144,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
+93.177.117.175,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
+93.177.117.244,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
+93.177.117.61,US,USA,United States,New Jersey,US-NJ,,Newark,07102,40.73566,-74.17237,Field 'timezone' is not supported.
 94.103.85.88,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,124527,55.75696,37.61502,Field 'timezone' is not supported.
-94.127.219.99,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,115114,55.7217,37.64772,Field 'timezone' is not supported.
+94.127.219.99,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,115114,55.72170,37.64772,Field 'timezone' is not supported.
 94.74.111.50,HK,HKG,Hong Kong,Hong Kong SAR,CN-HK,,New Territories,,22.48892,114.07111,Field 'timezone' is not supported.
 95.111.240.43,DE,DEU,Germany,Bavaria,DE-BY,,Munich,81549,48.10425,11.60102,Field 'timezone' is not supported.
 95.142.40.79,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,109387,55.67513,37.77316,Field 'timezone' is not supported.
-95.156.82.35,RU,RUS,Russia,Volga Federal District,RU-VOL,,Uninskiy rayon,612551,57.8136,51.34124,Field 'timezone' is not supported.
-95.164.232.33,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.232.44,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.232.91,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.233.186,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.234.106,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.234.174,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.234.187,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.234.195,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.234.26,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
-95.164.235.65,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,8397,41.62453,2.68697,Field 'timezone' is not supported.
+95.156.82.35,RU,RUS,Russia,Volga Federal District,RU-VOL,,Uninskiy rayon,612551,57.81360,51.34124,Field 'timezone' is not supported.
+95.164.232.33,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.232.44,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.232.91,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.233.186,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.234.106,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.234.174,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.234.187,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.234.195,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.234.26,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
+95.164.235.65,ES,ESP,Spain,Catalonia,ES-CT,,Pineda de Mar,08397,41.62453,2.68697,Field 'timezone' is not supported.
 95.165.169.33,RU,RUS,Russia,Central Federal District,RU-CEN,,Moscow,125252,55.79566,37.50334,Field 'timezone' is not supported.
 95.181.148.48,US,USA,United States,New Jersey,US-NJ,,Newark,07102-2372,40.73611,-74.16963,Field 'timezone' is not supported.
 95.181.148.96,US,USA,United States,New Jersey,US-NJ,,Newark,07102-2372,40.73611,-74.16963,Field 'timezone' is not supported.
@@ -1668,15 +1668,15 @@ ip,country_code2,country_code3,country_name,state_prov,state_code,district,city,
 95.181.151.210,US,USA,United States,New Jersey,US-NJ,,Newark,07102-2372,40.73611,-74.16963,Field 'timezone' is not supported.
 95.181.151.68,US,USA,United States,New Jersey,US-NJ,,Newark,07102-2372,40.73611,-74.16963,Field 'timezone' is not supported.
 95.181.151.79,US,USA,United States,New Jersey,US-NJ,,Newark,07102-2372,40.73611,-74.16963,Field 'timezone' is not supported.
-95.182.78.3,UA,UKR,Ukraine,,,,Kovelskyi raion,,51.21622,24.7096,Field 'timezone' is not supported.
+95.182.78.3,UA,UKR,Ukraine,,,,Kovelskyi raion,,51.21622,24.70960,Field 'timezone' is not supported.
 95.216.106.38,DE,DEU,Germany,Bavaria,DE-BY,,Gunzenhausen,91710,49.12483,10.78052,Field 'timezone' is not supported.
-95.216.12.141,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,100,60.17116,24.93265,Field 'timezone' is not supported.
-95.216.40.74,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,100,60.17116,24.93265,Field 'timezone' is not supported.
-95.216.9.166,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,100,60.17116,24.93265,Field 'timezone' is not supported.
+95.216.12.141,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,00100,60.17116,24.93265,Field 'timezone' is not supported.
+95.216.40.74,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,00100,60.17116,24.93265,Field 'timezone' is not supported.
+95.216.9.166,FI,FIN,Finland,South Finland,FI-ES,,Helsinki,00100,60.17116,24.93265,Field 'timezone' is not supported.
 96.113.159.162,US,USA,United States,New Jersey,US-NJ,,Mt Laurel,08054-4628,39.96657,-74.90327,Field 'timezone' is not supported.
 96.36.109.242,US,USA,United States,North Carolina,US-NC,,Roanoke Rapids,27870,36.47628,-77.64627,Field 'timezone' is not supported.
 97.87.248.14,US,USA,United States,Michigan,US-MI,,Bay City,48706,43.60259,-83.90399,Field 'timezone' is not supported.
-98.162.25.16,US,USA,United States,Nebraska,US-NE,,Omaha,,41.25654,-95.9345,Field 'timezone' is not supported.
+98.162.25.16,US,USA,United States,Nebraska,US-NE,,Omaha,,41.25654,-95.93450,Field 'timezone' is not supported.
 98.170.57.231,US,USA,United States,Georgia,US-GA,,Atlanta,30319-1418,33.91396,-84.34648,Field 'timezone' is not supported.
 98.175.31.195,US,USA,United States,Virginia,US-VA,,Norfolk,,36.85077,-76.28587,Field 'timezone' is not supported.
 98.188.47.132,US,USA,United States,Georgia,US-GA,,Atlanta,30319-1418,33.91396,-84.34648,Field 'timezone' is not supported.

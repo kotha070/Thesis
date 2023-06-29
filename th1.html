@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Proxy Server Finder</title>
+  <style>
+    #body {
+      font-family: Arial, sans-serif;
+      background-color: #fff;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    #header {
+      background-color: maroon;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+
+    #logo {
+      max-height: 80px;
+      margin-right: 10px; /* Decreased the margin-right value */
+      margin-left: 20px;
+      vertical-align: middle;
+    }
+
+    #title {
+      font-size: 30px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      margin-left: 20px; /* Added margin-left for space */
+      color: #FFDB58; /* Mustard Yellow */
+      text-align: center; /* Aligned the title to center */
+    }
+
+    #description {
+      font-size: 20px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    #researchers,
+    #advisor {
+      font-size: 14px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    #content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+      text-align: justify;
+    }
+
+    #input-form {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    label {
+      margin-right: 10px;
+    }
+
+    input[type="text"] {
+      padding: 5px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+
+    #fetchButton {
+      padding: 5px 10px;
+      background-color: maroon;
+      color: #fff;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+
+    #output {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+      border-bottom: 1px solid #ccc;
+    }
+
+    th {
+      background-color: #f2f2f2;
+      font-weight: bold;
+    }
+
+    .column {
+      display: inline-block;
+      width: 45%;
+      text-align: center;
+      vertical-align: top;
+    }
+  </style>
+</head>
+<body>
+  <div id="header">
+    <img id="logo" src="UMDlogo.png" alt="University Logo">
+    
+    <h1 id="title">A System based on understanding of the Performance and Distribution of INTERNET PROXY SERVERS</h1>
+    
+    <div id="researchers" class="column">
+      <p><strong>Sai Charitha Kothapalli (she/her)</strong></p>
+      <p>Graduate Student | Department of Computer Science</p>
+      <p>University of Minnesota Duluth</p>
+    </div>
+    <div id="advisor" class="column">
+      <p><strong>Dr. Haiyang (Henry) Wang (he/him)</strong></p>
+      <p>Associate Professor | Department of Computer Science</p>
+      <p>University of Minnesota at Duluth</p>
+    </div>
+  </div>
+
+  <div id="description">Welcome to our Proxy Server Finder. Please enter your latitude and longitude to fetch and process data from the spreadsheet.</div>
+  
+  <h2>Select a Task:</h2>
+  <select id="taskSelect">
+    <option value="1">Get Nearest Proxy Servers</option>
+    <option value="2">Check Proxy</option>
+  </select>
+  
+  <div id="task1">
+    <h3>Get Nearest Proxy Servers</h3>
+    <label for="latitudeInput">Latitude:</label>
+    <input type="number" id="latitudeInput"><br>
+    <label for="longitudeInput">Longitude:</label>
+    <input type="number" id="longitudeInput"><br>
+    <button onclick="fetchAndProcessCSV()">Fetch Data</button>
+    <div id="output"></div>
+  </div>
+
+  <div id="task2">
+    <h3>Check Proxy</h3>
+    <label for="ipAddress">IP Address:</label>
+    <input type="text" id="ipAddress"><br>
+    <label for="portNumber">Port Number:</label>
+    <input type="number" id="portNumber"><br>
+    <button onclick="checkProxy()">Check</button>
+    <div id="proxyStatus"></div>
+  </div>
+
+  <script src="papaparse.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
